@@ -1,0 +1,130 @@
+
+
+body{
+    background-color: black;
+}
+
+#main_div{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+#content_div{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 30%;
+    text-align:center;
+    height: 70%;
+}
+
+#info_div{
+    position: absolute;
+    top: 70%;
+    right: 10%;
+    left: 10%;
+    bottom: 0;
+    text-align:center;
+    color:#FFFFFF;
+    height: 30%;
+}
+
+iframe{
+    margin-top: 1%;
+    width :99%;
+    height: 95%;
+}
+
+#left{
+    flex: 1; 
+    left:0;
+    width:10%;    
+    height:70%;
+    position:fixed;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#center {
+    margin-left:10%;
+    margin-right: 10%;
+    width: 80%;
+    height: 100%;
+    flex: 3;
+
+}
+
+#right{
+   width:10%;
+   right:0;
+   height:70%;
+   position:fixed;
+   top:0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+i{
+    color: white;
+}
+
+#text_div{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 60%;
+    text-align:right;
+    direction: rtl;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#option_div{
+    position: absolute;
+    top: 40%;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    text-align:center;
+    height: 55%;  
+}
+
+#name_box{
+    margin-top: 3px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#name_text{
+    text-align: right;
+    
+}
+
+#info_cell{
+    padding: 0;
+    width: 70%;
+}
+
+#Information{
+    height: 100%;
+    margin : 0;
+    text-align: right;
+}
+
+#btn_cell{
+    padding: 0;
+    padding-right: 1%;
+}
+
+#meeting_number{
+    margin-top: 8.5%;
+}

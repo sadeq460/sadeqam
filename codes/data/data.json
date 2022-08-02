@@ -1,0 +1,1504 @@
+{ 
+"java":[
+    {
+        "name": "1",
+        "title": "مقدمه",
+        "amendment": "no",
+        "aparat": "JV1EI",
+        "youtube": "tQNWS88Ecgs"
+    },
+    {
+        "name": "2",
+        "title": "مقدمه",
+        "amendment": "no",
+        "aparat": "BzoKs",
+        "youtube": "GQdpbLqB1Rs"
+    },
+    {
+        "name": "3",
+        "title": "مقدمه",
+        "amendment": "no",
+        "aparat": "FKV4c",
+        "youtube": "ewPKvFhRXQ4"
+    },
+    {
+        "name": "4",
+        "title": "مقدمه",
+        "amendment": "no",
+        "aparat": "IhBzP",
+        "youtube": "amRBvBBEz6Y"
+    },
+    {
+        "name": "5",
+        "title": "مقدمه",
+        "amendment": "no",
+        "aparat": "qhKco",
+        "youtube": "AaZKTftDN5Y"
+    },
+    {
+        "name": "6",
+        "title": "نصب نرم افزار",
+        "amendment": "no",
+        "aparat": "I3log",
+        "youtube": "a9S9HNyYSws"
+    },
+    {
+        "name": "7",
+        "title": "نصب نرم افزار",
+        "amendment": "no",
+        "aparat": "ypmXO",
+        "youtube": "a3p4VEMnXjw"
+    },
+    {
+        "name": "8",
+        "title": "نصب نرم افزار",
+        "amendment": "no",
+        "aparat": "Hukvb",
+        "youtube": "iT3kNvi2S_s"
+    },
+    {
+        "name": "9",
+        "title": "نصب نرم افزار",
+        "amendment": "no",
+        "aparat": "6lEM8",
+        "youtube": "0DCsVQ0wejM"
+    },
+    {
+        "name": "10",
+        "title": "مفهوم متغیر و ثابت",
+        "amendment": "no",
+        "aparat": "3riKF",
+        "youtube": "oo6aT2C7gh0"
+    },
+    {
+        "name": "11",
+        "title": "متغیر ها",
+        "amendment": "no",
+        "aparat": "3jeQM",
+        "youtube": "no"
+    },
+    {
+        "name": "12",
+        "title": "تعریف متغیر",
+        "amendment": "no",
+        "aparat": "cLgvy",
+        "youtube": "no"
+    },
+    {
+        "name": "13",
+        "title": "عملیات جبری",
+        "amendment": "no",
+        "aparat": "M5YQ1",
+        "youtube": "no"
+    },
+    {
+        "name": "14",
+        "title": "عملیات جبری (عملی)",
+        "amendment": "no",
+        "aparat": "gRZl5",
+        "youtube": "no"
+    },
+    {
+        "name": "15",
+        "title": "عملگر های مقایسه ای",
+        "amendment": "no",
+        "aparat": "lBYtk",
+        "youtube": "no"
+    },
+    {
+        "name": "16",
+        "title": "عملگر های مقایسه ای (عملی)",
+        "amendment": "no",
+        "aparat": "C0Tul",
+        "youtube": "no"
+    },
+    {
+        "name": "17",
+        "title": "مفهوم تابع",
+        "amendment": "no",
+        "aparat": "oEVp4",
+        "youtube": "no"
+    },
+    {
+        "name": "18",
+        "title": "تابع ها (عملی)",
+        "amendment": "no",
+        "aparat": "AGvpq",
+        "youtube": "no"
+    },
+    {
+        "name": "19",
+        "title": " عبارت شرطی",
+        "amendment": "no",
+        "aparat": "0XeF3",
+        "youtube": "no"
+    },
+    {
+        "name": "20",
+        "title": "عبارت شرطی (عملی)",
+        "amendment": "no",
+        "aparat": "Y6Bxq",
+        "youtube": "no"
+    },
+    {
+        "name": "21",
+        "title": "حلقه while",
+        "amendment": "no",
+        "aparat": "H5m0D",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/do-while-loop"
+    },
+    {
+        "name": "22",
+        "title": "حلقه while (عملی)",
+        "amendment": "no",
+        "aparat": "JrFsM",
+        "youtube": "no"
+    },
+    {
+        "name": "23",
+        "title": "حلقه do... while",
+        "amendment": "no",
+        "aparat": "QyO8q",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/do-while-loop"
+    },
+    {
+        "name": "24",
+        "title": "حلقه do... while (عملی)",
+        "amendment": "no",
+        "aparat": "Z4lmH",
+        "youtube": "no"
+    },
+    {
+        "name": "25",
+        "title": "حلقه for",
+        "amendment": "no",
+        "aparat": "XTEw4",
+        "youtube": "no"
+    },
+    {
+        "name": "26",
+        "title": "حلقه for (عملی)",
+        "amendment": "no",
+        "aparat": "0bAOD",
+        "youtube": "no"
+    },
+    {
+        "name": "27",
+        "title": "عملگر های انتساب ترکیبی و افزایشی/کاهشی",
+        "amendment": "no",
+        "aparat": "nqJv6",
+        "youtube": "no"
+    },
+    {
+        "name": "28",
+        "title": "عملگر های انتساب ترکیبی و افزایشی/کاهشی (عملی)",
+        "amendment": "no",
+        "aparat": "pZGvn",
+        "youtube": "no"
+    },
+    {
+        "name": "29",
+        "title": "مفهوم اعمال منطقی",
+        "amendment": "no",
+        "aparat": "1fwBa",
+        "youtube": "no",
+        "source" : "https://www.electronics-tutorials.ws/boolean/bool_7.html"
+    },
+    {
+        "name": "30",
+        "title": "مفهوم اعمال منطقی (عملی)",
+        "amendment": "no",
+        "aparat": "SFZka",
+        "youtube": "no"
+    },
+    {
+        "name": "31",
+        "title": "آشنایی کلی با String",
+        "amendment": "no",
+        "aparat": "c9Nab",
+        "youtube": "no",
+        "source" : "https://www.geeksforgeeks.org/strings-in-java/"
+    },
+    {
+        "name": "32",
+        "title": " آشنایی کلی با String (عملی)",
+        "amendment": "no",
+        "aparat": "8ILDV",
+        "youtube": "no"
+    },
+    {
+        "name": "33",
+        "title": " مفهوم آرایه",
+        "amendment": "no",
+        "aparat": "9sica",
+        "youtube": "no"
+    },
+    {
+        "name": "34",
+        "title": "مفهوم آرایه (عملی)",
+        "amendment": "no",
+        "aparat": "9aAvB",
+        "youtube": "no"
+    },
+    {
+        "name": "35",
+        "title": "مفهوم آرایه های چند بعدی",
+        "amendment": "no",
+        "aparat": "jgvLE",
+        "youtube": "no"
+    },
+    {
+        "name": "36",
+        "title": "برسی حلقه های تودرتو",
+        "amendment": "no",
+        "aparat": "ZgSEQ",
+        "youtube": "no",
+        "source" : "https://mathbits.com/MathBits/Java/Looping/NestedFor.htm"
+    },
+    {
+        "name": "37",
+        "title": "آرایه های چند بعدی (عملی)",
+        "amendment": "no",
+        "aparat": "3zEfh",
+        "youtube": "no"
+    },
+    {
+        "name": "38",
+        "title": " آشنای با break و continue",
+        "amendment": "no",
+        "aparat": "hgSEw",
+        "youtube": "no",
+        "source" : "http://net-informations.com/java/sts/break.htm"
+    },
+    {
+        "name": "39",
+        "title": " آشنای با break و continue (عملی)",
+        "amendment": "no",
+        "aparat": "eSaAf",
+        "youtube": "no"
+    },
+    {
+        "name": "40",
+        "title": "مفهوم محدوده متغیر ها",
+        "amendment": "no",
+        "aparat": "LgdYf",
+        "youtube": "no",
+        "source" : "https://openclassrooms.com/en/courses/5667431-learn-programming-with-java/5906889-understand-variable-scoping-and-access-control"
+    },
+    {
+        "name": "41",
+        "title": "مفهوم محدوده متغیر ها (عملی)",
+        "amendment": "no",
+        "aparat": "MlCZi",
+        "youtube": "no"
+    },
+    {
+        "name": "42",
+        "title": "مفهوم garbage collection",
+        "amendment": "no",
+        "aparat": "nN8Z3",
+        "youtube": "no",
+        "source" : "https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm"
+    },
+    {
+        "name": "43",
+        "title": "مقایسه رشته ها",
+        "amendment": "no",
+        "aparat": "2ejHm",
+        "youtube": "no",
+        "source" : "https://www.javatpoint.com/string-comparison-in-java"
+    },
+    {
+        "name": "44",
+        "title": "مقایسه رشته ها (عملی)",
+        "amendment": "no",
+        "aparat": "e1Hk8",
+        "youtube": "no"
+    },
+    {
+        "name": "45",
+        "title": "آشنایی با switch",
+        "amendment": "no",
+        "aparat": "0sIyB",
+        "youtube": "no",
+        "source" : "https://www.baeldung.com/java-switch"
+    },
+    {
+        "name": "46",
+        "title": " آشنایی با switch (عملی)",
+        "amendment": "no",
+        "aparat": "hUmtX",
+        "youtube": "no"
+    },
+    {
+        "name": "47",
+        "title": "مفهوم شی گرایی class و object",
+        "amendment": "no",
+        "aparat": "M9OtD",
+        "youtube": "no",
+        "source" : "https://www.guru99.com/java-oops-class-objects.html"
+    },
+    {
+        "name": "48",
+        "title": "مفهوم شی گرایی class و object (عملی)",
+        "amendment": "no",
+        "aparat": "VDcEe",
+        "youtube": "no"
+    },
+    {
+        "name": "49",
+        "title": "مفهوم شی گرایی تابع سازنده",
+        "amendment": "no",
+        "aparat": "3fqPZ",
+        "youtube": "no",
+        "source" : "https://beginnersbook.com/2013/03/constructors-in-java/"
+    },
+    {
+        "name": "50",
+        "title": "مفهوم شی گرایی تابع سازنده (عملی)",
+        "amendment": "no",
+        "aparat": "AeZMm",
+        "youtube": "no"
+    },
+    {
+        "name": "51",
+        "title": "مفهوم شی گرایی Method Overloading",
+        "amendment": "کلمه overloading در ویدیو اشتباها overriding تلفظ شده",
+        "aparat": "nx8Wz",
+        "youtube": "no",
+        "source" : "https://beginnersbook.com/2013/05/method-overloading/"
+    },
+    {
+        "name": "52",
+        "title": "مفهوم شی گرایی Method Overloading (عملی)",
+        "amendment": "کلمه overloading در ویدیو اشتباها overriding تلفظ شده",
+        "aparat": "BZ6uz",
+        "youtube": "no"
+    },
+    {
+        "name": "53",
+        "title": "مفهوم شی گرایی کپسوله سازی",
+        "amendment": "no",
+        "aparat": "0Nzmn",
+        "youtube": "no",
+        "source" : "https://www.guru99.com/java-oops-encapsulation.html"
+    },
+    {
+        "name": "54",
+        "title": "مفهوم شی گرایی کپسوله سازی (عملی)",
+        "amendment": "no",
+        "aparat": "0eyTY",
+        "youtube": "no"
+    },
+    {
+        "name": "55",
+        "title": "مفهوم شی گرایی وراثت",
+        "amendment": "no",
+        "aparat": "GtsiK",
+        "youtube": "no",
+        "source" : "https://www.scientecheasy.com/2020/07/inheritance-in-java.html"
+    },
+    {
+        "name": "56",
+        "title": "مفهوم شی گرایی وراثت (عملی)",
+        "amendment": "no",
+        "aparat": "uje70",
+        "youtube": "no"
+    },
+    {
+        "name": "57",
+        "title": "مفهوم شی گرایی قوانین SOLID تک وظیفه ای",
+        "amendment": "no",
+        "aparat": "XC14K",
+        "youtube": "no",
+        "source" : "https://www.baeldung.com/solid-principles"
+    },
+    {
+        "name": "58",
+        "title": " مفهوم شی گرایی قوانین SOLID اصل open/close",
+        "amendment": "no",
+        "aparat": "cACJS",
+        "youtube": "no",
+        "source" : "https://www.baeldung.com/solid-principles"
+    },
+    {
+        "name": "59",
+        "title": "مفهوم شی گرایی interface",
+        "amendment": "no",
+        "aparat": "ZMqCS",
+        "youtube": "no",
+        "source" : "https://www.dummies.com/programming/java/what-is-an-interface-in-java/"
+    },
+    {
+        "name": "60",
+        "title": "مفهوم شی گرایی interface (عملی)",
+        "amendment": "no",
+        "aparat": "4i0oJ",
+        "youtube": "no"
+    },
+    {
+        "name": "61",
+        "title": "مفهوم شی گرایی قوانین SOLID اصل Liskov",
+        "amendment": "no",
+        "aparat": "4RJET",
+        "youtube": "no",
+        "source" : "https://www.baeldung.com/solid-principles"
+    },
+    {
+        "name": "62",
+        "title": "مفهوم شی گرایی قوانین SOLID اصل تفکیک اینترفیس",
+        "amendment": "no",
+        "aparat": "Lruq9",
+        "youtube": "no",
+        "source" : "https://www.baeldung.com/solid-principles"
+    },
+    {
+        "name": "63",
+        "title": " شی گرایی مفهوم Abstraction و کلاس انتزاعی",
+        "amendment": "no",
+        "aparat": "zCptm",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/abstract-classes-methods"
+    },
+    {
+        "name": "64",
+        "title": " شی گرایی کلاس انتزاعی (عملی)",
+        "amendment": "no",
+        "aparat": "Klvtg",
+        "youtube": "no"
+    },
+    {
+        "name": "65",
+        "title": "شی گرایی SOLID اصل Dependency Inversion",
+        "amendment": "no",
+        "aparat": "ocyp3",
+        "youtube": "no",
+        "source" : "https://javatechonline.com/solid-principles-the-dependency-inversion-principle/"
+    },
+    {
+        "name": "66",
+        "title": "شی گرایی مفهوم static",
+        "amendment": "no",
+        "aparat": "0EPtF",
+        "youtube": "no",
+        "source" : "https://www.freecodecamp.org/news/java-static-keyword-explained/"
+    },
+    {
+        "name": "67",
+        "title": "شی گرایی مفهوم static (عملی)",
+        "amendment": "no",
+        "aparat": "laHtf",
+        "youtube": "no"
+    },
+    {
+        "name": "68",
+        "title": "شی گرایی Nested Inner class",
+        "amendment": "no",
+        "aparat": "j1gD2",
+        "youtube": "no",
+        "source" : "https://www.geeksforgeeks.org/inner-class-java/"
+    },
+    {
+        "name": "69",
+        "title": "شی گرایی Nested Inner class (عملی)",
+        "amendment": "no",
+        "aparat": "Epcyi",
+        "youtube": "no"
+    },
+    {
+        "name": "70",
+        "title": "شی گرایی کلمه کلیدی final",
+        "amendment": "no",
+        "aparat": "NS3za",
+        "youtube": "no",
+        "source" : "https://www.tutorialkart.com/java/final-keyword-in-java"
+    },
+    {
+        "name": "71",
+        "title": "شی گرایی method local Inner class",
+        "amendment": "no",
+        "aparat": "eSXwm",
+        "youtube": "no",
+        "source" : "https://www.geeksforgeeks.org/inner-class-java/"
+    },
+    {
+        "name": "72",
+        "title": "شی گرایی Method Local inner class (عملی)",
+        "amendment": "no",
+        "aparat": "RJhGN",
+        "youtube": "no"
+    },
+    {
+        "name": "73",
+        "title": " شی گرایی anonymous inner class",
+        "amendment": "no",
+        "aparat": "skbW6",
+        "youtube": "no",
+        "source" : "https://www.javatpoint.com/anonymous-inner-class"
+    },
+    {
+        "name": "74",
+        "title": "شی گرایی anonymous inner class (عملی)",
+        "amendment": "no",
+        "aparat": "Hwpt5",
+        "youtube": "no"
+    },
+    {
+        "name": "75",
+        "title": " شی گرایی Static Nested class",
+        "amendment": "no",
+        "aparat": "ZfXv5",
+        "youtube": "no",
+        "source" : "http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/8-List/nested-class.html"
+    },
+    {
+        "name": "76",
+        "title": "شی گرایی Static nested class (عملی)",
+        "amendment": "no",
+        "aparat": "3fJBp",
+        "youtube": "no"
+    },
+    {
+        "name": "77",
+        "title": " byVal یا byRef",
+        "amendment": "no",
+        "aparat": "BJnUT",
+        "youtube": "no",
+        "source" : "https://howtodoinjava.com/java/basics/java-is-pass-by-value-lets-see-how/"
+    },
+    {
+        "name": "78",
+        "title": "انواع خطا ها در برنامه نویسی ",
+        "amendment": "no",
+        "aparat": "924MB",
+        "youtube": "no",
+        "source" : "https://codeforwin.org/2015/05/introduction-to-programming-errors.html"
+    },
+    {
+        "name": "79",
+        "title": " exception ها قسمت اول",
+        "amendment": "no",
+        "aparat": "lrtMR",
+        "youtube": "no",
+        "source" : "https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/"
+    },
+    {
+        "name": "80",
+        "title": " exception ها قسمت دوم",
+        "amendment": "no",
+        "aparat": "S9drT",
+        "youtube": "no",
+        "source" : "https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/"
+    },
+    {
+        "name": "81",
+        "title": " exception ها (عملی)",
+        "amendment": "no",
+        "aparat": "lewT1",
+        "youtube": "no"
+    },
+    {
+        "name": "82",
+        "title": "سلسله‌ مراتب کلاس Throwable",
+        "amendment": "no",
+        "aparat": "4xLps",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "83",
+        "title": "checked exceptions",
+        "amendment": "no",
+        "aparat": "HXbKL",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "84",
+        "title": "checked exceptions (عملی)",
+        "amendment": "no",
+        "aparat": "I6jxF",
+        "youtube": "no"
+    },
+    {
+        "name": "85",
+        "title": "unchecked exceptions",
+        "amendment": "no",
+        "aparat": "nTzly",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "86",
+        "title": " unchecked exceptions (عملی)",
+        "amendment": "no",
+        "aparat": "Qu2bV",
+        "youtube": "no"
+    },
+    {
+        "name": "87",
+        "title": "نگاهی عمیق تر به try/catch",
+        "amendment": "no",
+        "aparat": "jbJeW",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "88",
+        "title": "نگاهی عمیق تر به try/catch (عملی)",
+        "amendment": "no",
+        "aparat": "T4SVL",
+        "youtube": "no"
+    },
+    {
+        "name": "89",
+        "title": "Try-With-Resources",
+        "amendment": "no",
+        "aparat": "Zx1WI",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "90",
+        "title": " Try-With-Resources (عملی)",
+        "amendment": "no",
+        "aparat": "1FGuD",
+        "youtube": "no"
+    },
+    {
+        "name": "91",
+        "title": "exception های سفارشی",
+        "amendment": "no",
+        "aparat": "MJB1D",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "92",
+        "title": "exception های سفارشی (عملی)",
+        "amendment": "no",
+        "aparat": "VweAY",
+        "youtube": "no"
+    },
+    {
+        "name": "93",
+        "title": " بهینگی در exception ها قسمت اول",
+        "amendment": "no",
+        "aparat": "CTcEA",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "94",
+        "title": "بهینگی در exception ها قسمت دوم",
+        "amendment": "no",
+        "aparat": "kXBfL",
+        "youtube": "no",
+        "source" : "https://sematext.com/blog/java-exceptions/"
+    },
+    {
+        "name": "95",
+        "title": "مفهوم لیست پیوندی قسمت اول",
+        "amendment": "no",
+        "aparat": "Ckao7",
+        "youtube": "no",
+        "source" : "https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm"
+    },
+    {
+        "name": "96",
+        "title": "مفهوم لیست پیوندی قسمت دوم",
+        "amendment": "no",
+        "aparat": "Tvgya",
+        "youtube": "no",
+        "source" : "https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm"
+    },
+    {
+        "name": "97",
+        "title": "LinkedList",
+        "amendment": "no",
+        "aparat": "P4CJf",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/linkedlist"
+    },
+    {
+        "name": "98",
+        "title": "LinkedList (عملی)",
+        "amendment": "no",
+        "aparat": "O74jS",
+        "youtube": "no"
+    },
+    {
+        "name": "99",
+        "title": " مفهوم صف یا queue",
+        "amendment": "no",
+        "aparat": "QRdcJ",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/dsa/queue"
+    },
+    {
+        "name": "100",
+        "title": "اینترفیس queue ",
+        "amendment": "no",
+        "aparat": "YjDS0",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/queue"
+    },
+    {
+        "name": "101",
+        "title": "اینترفیس queue (عملی)",
+        "amendment": "no",
+        "aparat": "7kWld",
+        "youtube": "no"
+    },
+    {
+        "name": "102",
+        "title": "مفهوم پشته یا stack",
+        "amendment": "no",
+        "aparat": "jd0qE",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/dsa/stack"
+    },
+    {
+        "name": "103",
+        "title": "کلاس Stack",
+        "amendment": "no",
+        "aparat": "Tye6a",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/stack"
+    },
+    {
+        "name": "104",
+        "title": "کلاس Stack (عملی)",
+        "amendment": "no",
+        "aparat": "1nQRm",
+        "youtube": "no"
+    },
+    {
+        "name": "105",
+        "title": " آشنایی کلی با کلاس ArrayList",
+        "amendment": "no",
+        "aparat": "vWO0K",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/arraylist"
+    },
+    {
+        "name": "106",
+        "title": "نحوه تغییر خودکار اندازه ArrayList",
+        "amendment": "no",
+        "aparat": "i23sr",
+        "youtube": "no",
+        "source" : "https://javagoal.com/internal-working-of-arraylist-in-java/"
+    },
+    {
+        "name": "107",
+        "title": "ArrayList vs LinkedList",
+        "amendment": "no",
+        "aparat": "DWkxm",
+        "youtube": "no",
+        "source" : "https://javahungry.blogspot.com/2015/04/difference-between-arraylist-and-linkedlist-in-java-example.html?m=1"
+    },
+    {
+        "name": "108",
+        "title": "کلاس ArrayList (عملی)",
+        "amendment": "no",
+        "aparat": "etMu5",
+        "youtube": "no"
+    },
+    {
+        "name": "109",
+        "title": " آشنایی با ساختمان داده map",
+        "amendment": "no",
+        "aparat": "Wcoh8",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/map"
+    },
+    {
+        "name": "110",
+        "title": "کلاس HashMap",
+        "amendment": "مفهوم hash مورد برسی دقیق قرار نگرفته و فقط در رابطه با کلاس پیاده سازی شده با این مفهوم آشنا می‌شویم",
+        "aparat": "iDlC2",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/map"
+    },
+    {
+        "name": "111",
+        "title": "کلاس HashMap (عملی)",
+        "amendment": "no",
+        "aparat": "XQKtA",
+        "youtube": "no"
+    },
+    {
+        "name": "112",
+        "title": "مفهوم LinkedHashMap",
+        "amendment": "no",
+        "aparat": "cqwor",
+        "youtube": "no",
+        "source" : "https://howtodoinjava.com/java/collections/linkedhashmap/"
+    },
+    {
+        "name": "113",
+        "title": "کلاس LinkedHashMap",
+        "amendment": "no",
+        "aparat": "RThCa",
+        "youtube": "no",
+        "source" : "https://howtodoinjava.com/java/collections/linkedhashmap/"
+    },
+    {
+        "name": "114",
+        "title": "کلاس LinkedHashMap (عملی)",
+        "amendment": "no",
+        "aparat": "ix5eh",
+        "youtube": "no"
+    },
+    {
+        "name": "115",
+        "title": "مفهوم Strong Reference",
+        "amendment": "no",
+        "aparat": "SeI1p",
+        "youtube": "no",
+        "source" : "https://iq.opengenus.org/types-of-references-in-java/"
+    },
+    {
+        "name": "116",
+        "title": "مفهوم Soft Reference",
+        "amendment": "no",
+        "aparat": "rnD7E",
+        "youtube": "no",
+        "source" : "https://iq.opengenus.org/types-of-references-in-java/"
+    },
+    {
+        "name": "117",
+        "title": "مفهوم Weak Reference",
+        "amendment": "no",
+        "aparat": "mLxXE",
+        "youtube": "no",
+        "source" : "https://iq.opengenus.org/types-of-references-in-java/"
+    },
+    {
+        "name": "118",
+        "title": "تابع Finalize و دلیل منسوخ شدن آن ",
+        "amendment": "no",
+        "aparat": "Mb40n",
+        "youtube": "no",
+        "source" : "https://kheri.net/java-finalize-method-and-why-its-deprecated/"
+    },
+    {
+        "name": "119",
+        "title": "مفهوم Phantom Reference",
+        "amendment": "no",
+        "aparat": "JpPW0",
+        "youtube": "no",
+        "source" : "https://o7planning.org/13697/java-phantomreference"
+    },
+    {
+        "name": "120",
+        "title": "کلاس WeakHashMap",
+        "amendment": "no",
+        "aparat": "CI1MA",
+        "youtube": "no",
+        "source" : "https://www.javacodegeeks.com/2019/05/weakhashmap-java.html"
+    },
+    {
+        "name": "121",
+        "title": "کلاس WeakHashMap (عملی)",
+        "amendment": "no",
+        "aparat": "AdTHJ",
+        "youtube": "no"
+    },
+    {
+        "name": "122",
+        "title": "مفهوم درخت یا tree",
+        "amendment": "no",
+        "aparat": "HKzBS",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/dsa/trees"
+    },
+    {
+        "name": "123",
+        "title": "Tree کلاس Node ق اول",
+        "amendment": "no",
+        "aparat": "JLPtD",
+        "youtube": "no"
+    },
+    {
+        "name": "124",
+        "title": "Tree کلاس Node ق دوم",
+        "amendment": "no",
+        "aparat": "Ceunx",
+        "youtube": "no"
+    },
+    {
+        "name": "125",
+        "title": "Tree کلاس درخت ق اول",
+        "amendment": "no",
+        "aparat": "tv2zB",
+        "youtube": "no"
+    },
+    {
+        "name": "126",
+        "title": " پیمایش in order یک درخت ",
+        "amendment": "no",
+        "aparat": "nH7PL",
+        "youtube": "no",
+        "source" : "https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm"
+    },
+    {
+        "name": "127",
+        "title": " پیمایش pre order یک درخت",
+        "amendment": "no",
+        "aparat": "aGiu3",
+        "youtube": "no",
+        "source" : "https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm"
+    },
+    {
+        "name": "128",
+        "title": "پیمایش post order یک درخت",
+        "amendment": "no",
+        "aparat": "nQ87R",
+        "youtube": "no",
+        "source" : "https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm"
+    },
+    {
+        "name": "129",
+        "title": "مفهوم توابع بازگشتی",
+        "amendment": "no",
+        "aparat": "ASlCO",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/recursion"
+    },
+    {
+        "name": "130",
+        "title": "پیمایش in order (عملی)",
+        "amendment": "no",
+        "aparat": "y15Gj",
+        "youtube": "no"
+    },
+    {
+        "name": "131",
+        "title": " پیمایش pre order (عملی)",
+        "amendment": "no",
+        "aparat": "P6Xoi",
+        "youtube": "no"
+    },
+    {
+        "name": "132",
+        "title": "پیمایش post order (عملی) (trace)",
+        "amendment": "no",
+        "aparat": "oGtea",
+        "youtube": "no"
+    },
+    {
+        "name": "133",
+        "title": "مفهوم Wrapper class",
+        "amendment": "no",
+        "aparat": "5rNOA",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/wrapper"
+    },
+    {
+        "name": "134",
+        "title": "مفهوم کلاس های Generic",
+        "amendment": "no",
+        "aparat": "2WLic",
+        "youtube": "no",
+        "source" : "https://www.koderhq.com/tutorial/java/generic/"
+    },
+    {
+        "name": "135",
+        "title": "کلاس های Generic (عملی)",
+        "amendment": "no",
+        "aparat": "Y7AFT",
+        "youtube": "no"
+    },
+    {
+        "name": "136",
+        "title": "درخت Generic",
+        "amendment": "no",
+        "aparat": "3ofJ7",
+        "youtube": "no"
+    },
+    {
+        "name": "137",
+        "title": "درخت، اضافه کردن آدرس parent",
+        "amendment": "no",
+        "aparat": "kOERT",
+        "youtube": "no"
+    },
+    {
+        "name": "138",
+        "title": " پیمایش اول سطح درخت ",
+        "amendment": "no",
+        "aparat": "rdC82",
+        "youtube": "no",
+        "source" : "https://www.journaldev.com/44201/breadth-first-search-depth-first-search-bfs-dfs"
+    },
+    {
+        "name": "139",
+        "title": "پیمایش اول سطح درخت (عملی)(Trace)",
+        "amendment": "no",
+        "aparat": "9BCeF",
+        "youtube": "no"
+    },
+    {
+        "name": "140",
+        "title": "مفهوم درخت عبارت",
+        "amendment": "no",
+        "aparat": "8NVFm",
+        "youtube": "no",
+        "source" : "https://www.techiedelight.com/evaluate-binary-expression-tree/"
+    },
+    {
+        "name": "141",
+        "title": "مفهوم درخت عبارت (عملی)(Trace)",
+        "amendment": "no",
+        "aparat": "tXPfG",
+        "youtube": "no"
+    },
+    {
+        "name": "142",
+        "title": "الگوریتم ساخت درخت عبارت",
+        "amendment": "no",
+        "aparat": "25aVu",
+        "youtube": "no",
+        "source" : "https://csveda.com/expression-tree/"
+    },
+    {
+        "name": "143",
+        "title": "الگوریتم ساخت درخت عبارت (عملی)",
+        "amendment": "no",
+        "aparat": "u1gPG",
+        "youtube": "no"
+    },
+    {
+        "name": "144",
+        "title": "الگوریتم ساخت درخت عبارت (trace)",
+        "amendment": "no",
+        "aparat": "PKgO3",
+        "youtube": "no"
+    },
+    {
+        "name": "145",
+        "title": "کلاس TreeMap",
+        "amendment": "no",
+        "aparat": "aBxzX",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/treemap"
+    },
+    {
+        "name": "146",
+        "title": "کلاس TreeMap (عملی)",
+        "amendment": "no",
+        "aparat": "FXTHp",
+        "youtube": "no"
+    },
+    {
+        "name": "147",
+        "title": "اینترفیس Comparable",
+        "amendment": "no",
+        "aparat": "DFbCj",
+        "youtube": "no",
+        "source" : "https://www.scientecheasy.com/2021/01/comparable-interface-in-java.html/"
+    },
+    {
+        "name": "148",
+        "title": "Comparable در کلاس های معمولی و جنریک",
+        "amendment": "no",
+        "aparat": "fOzHm",
+        "youtube": "no"
+    },
+    {
+        "name": "149",
+        "title": "اینترفیس comparator",
+        "amendment": "no",
+        "aparat": "g7RhH",
+        "youtube": "no",
+        "source" : "https://www.geeksforgeeks.org/comparator-interface-java/amp/"
+    },
+    {
+        "name": "150",
+        "title": "اینترفیس comparator (عملی)",
+        "amendment": "no",
+        "aparat": "fQiRV",
+        "youtube": "no"
+    },
+    {
+        "name": "151",
+        "title": "اینترفیس SortedMap",
+        "amendment": "no",
+        "aparat": "UAxXk",
+        "youtube": "no",
+        "source" : "https://www.journaldev.com/16209/java-sortedmap-sorted-map-java"
+    },
+    {
+        "name": "152",
+        "title": "اینترفیس SortedMap (عملی)",
+        "amendment": "no",
+        "aparat": "9wy5e",
+        "youtube": "no"
+    },
+    {
+        "name": "153",
+        "title": "مفهوم توابع جزء صحیح و سقف",
+        "amendment": "no",
+        "aparat": "0HPzT",
+        "youtube": "no",
+        "source" : "https://math24.net/floor-ceiling-functions.html"
+    },
+    {
+        "name": "154",
+        "title": " اینترفیس NavigableMap",
+        "amendment": "no",
+        "aparat": "H7W2Z",
+        "youtube": "no",
+        "source" : "https://www.codejava.net/java-core/collections/java-navigablemap-and-treemap-tutorial-and-examples"
+    },
+    {
+        "name": "155",
+        "title": "اینترفیس NavigableMap (عملی)",
+        "amendment": "no",
+        "aparat": "Bt7bP",
+        "youtube": "no"
+    },
+    {
+        "name": "156",
+        "title": "آشنایی با ساختمان داده Set",
+        "amendment": "no",
+        "aparat": "d2AqE",
+        "youtube": "no",
+        "source" : "https://www.programiz.com/java-programming/set"
+    },
+    {
+        "name": "157",
+        "title": "آشنایی با Iterator",
+        "amendment": "no",
+        "aparat": "e96h5",
+        "youtube": "no",
+        "source" : "https://stackabuse.com/java-iterable-interface-iterator-listiterator-and-spliterator/"
+    },
+    {
+        "name": "158",
+        "title": "آشنایی با Iterator (عملی)",
+        "amendment": "no",
+        "aparat": "NLkcD",
+        "youtube": "no"
+    },
+    {
+        "name": "159",
+        "title": "آشنایی با list Iterator",
+        "amendment": "no",
+        "aparat": "36oN8",
+        "youtube": "no",
+        "source" : "https://stackabuse.com/java-iterable-interface-iterator-listiterator-and-spliterator/"
+    },
+    {
+        "name": "160",
+        "title": " آشنایی با list Iterator (عملی)",
+        "amendment": "no",
+        "aparat": "ykqu3",
+        "youtube": "no"
+    },
+    {
+        "name": "161",
+        "title": "مفهوم پایگاه داده",
+        "amendment": "no",
+        "aparat": "TbWa1",
+        "youtube": "no",
+        "source" : "https://www.codecademy.com/article/what-is-rdbms-sql"
+    },
+    {
+        "name": "162",
+        "title": "مفهوم پایگاه داده. ق دوم",
+        "amendment": "no",
+        "aparat": "QJF4D",
+        "youtube": "no",
+        "source" : "https://www.codecademy.com/article/what-is-rdbms-sql"
+    },
+    {
+        "name": "163",
+        "title": " آشنایی با SQLite",
+        "amendment": "no",
+        "aparat": "bYHz8",
+        "youtube": "no",
+        "source" : "https://www.sqlitetutorial.net/what-is-sqlite/"
+    },
+    {
+        "name": "164",
+        "title": "اضافه کردن درایور SQLite",
+        "amendment": "no",
+        "aparat": "pok7B",
+        "youtube": "no",
+        "source" : "https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc"
+    },
+    {
+        "name": "165",
+        "title": "ایجاد اتصال به SQLite",
+        "amendment": "no",
+        "aparat": "pSUtj",
+        "youtube": "no"
+    },
+    {
+        "name": "166",
+        "title": " انواع داده ها در SQLite",
+        "amendment": "no",
+        "aparat": "3AJSq",
+        "youtube": "no",
+        "source" : "https://www.sqlitetutorial.net/sqlite-data-types/"
+    },
+    {
+        "name": "167",
+        "title": "ساخت جدول در SQLite",
+        "amendment": "no",
+        "aparat": "ImWvu",
+        "youtube": "no",
+        "source" : "https://www.sqlitetutorial.net/sqlite-create-table/"
+    },
+    {
+        "name": "168",
+        "title": "ساخت جدول در SQLite (عملی)",
+        "amendment": "no",
+        "aparat": "z8iZS",
+        "youtube": "no"
+    },
+    {
+        "name": "169",
+        "title": "اضافه کردن داده در SQLite ",
+        "amendment": "no",
+        "aparat": "2w4aJ",
+        "youtube": "no",
+        "source" : "https://www.sqlitetutorial.net/sqlite-insert/"
+    },
+    {
+        "name": "170",
+        "title": "اضافه کردن داده در SQLite (عملی)",
+        "amendment": "no",
+        "aparat": "7CPKo",
+        "youtube": "no"
+    },
+    {
+        "name": "171",
+        "title": "خواندن داده از SQLite",
+        "amendment": "no",
+        "aparat": "Zganl",
+        "youtube": "no",
+        "source" : "https://www.sqlitetutorial.net/sqlite-select/"
+    },
+    {
+        "name": "172",
+        "title": "خواندن داده از SQLite (عملی)",
+        "amendment": "no",
+        "aparat": "rhASv",
+        "youtube": "no"
+    },
+    {
+        "name": "173",
+        "title": "حالات مختلف select ح اول",
+        "amendment": "no",
+        "aparat": "Y6Qsy",
+        "youtube": "no"
+    },
+    {
+        "name": "174",
+        "title": "select داده ها با limit و offset",
+        "amendment": "no",
+        "aparat": "2qfIT",
+        "youtube": "no"
+    },
+    {
+        "name": "175",
+        "title": "آشنایی کلی با مفهوم کلید در SQLite",
+        "amendment": "no",
+        "aparat": "R8h7x",
+        "youtube": "no"
+    },
+    {
+        "name": "176",
+        "title": "خواندن رکورد با کلید در SQLite",
+        "amendment": "no",
+        "aparat": "JTLwv",
+        "youtube": "no"
+    },
+    {
+        "name": "177",
+        "title": "برسی وجود کلید تکراری در insert",
+        "amendment": "no",
+        "aparat": "0W48V",
+        "youtube": "no"
+    },
+    {
+        "name": "178",
+        "title": "حذف داده از SQLite",
+        "amendment": "no",
+        "aparat": "ng36d",
+        "youtube": "no"
+    },
+    {
+        "name": "179",
+        "title": "ویرایش رکورد در SQLite",
+        "amendment": "no",
+        "aparat": "ml4IO",
+        "youtube": "no"
+    },
+    {
+        "name": "180",
+        "title": "مفهوم رابطه در RDBMS",
+        "amendment": "no",
+        "aparat": "yFJaY",
+        "youtube": "no",
+        "source" : "https://afteracademy.com/blog/what-are-the-different-types-of-relationships-in-dbms"
+    },
+    {
+        "name": "181",
+        "title": "مفهوم کلید خارجی یا foreign key",
+        "amendment": "no",
+        "aparat": "EyoLe",
+        "youtube": "no",
+        "source" : "https://www.geeksforgeeks.org/difference-between-primary-key-and-foreign-key/"
+    },
+    {
+        "name": "182",
+        "title": "ایجاد ساختار db پروژه مدیریت مدرسه",
+        "amendment": "no",
+        "aparat": "juo59",
+        "youtube": "no"
+    },
+    {
+        "name": "183",
+        "title": "ساخت کلاس های نگهدارنده داده",
+        "amendment": "no",
+        "aparat": "lzMDm",
+        "youtube": "no"
+    },
+    {
+        "name": "184",
+        "title": "توابع select داده ها ",
+        "amendment": "no",
+        "aparat": "O8BC4",
+        "youtube": "no"
+    },
+    {
+        "name": "185",
+        "title": "توابع insert داده ها",
+        "amendment": "no",
+        "aparat": "8UwQv",
+        "youtube": "no"
+    },
+    {
+        "name": "186",
+        "title": " توابع remove داده ها ",
+        "amendment": "no",
+        "aparat": "jKbJ9",
+        "youtube": "no"
+    },
+    {
+        "name": "187",
+        "title": " توابع update داده ها ",
+        "amendment": "no",
+        "aparat": "KmF0y",
+        "youtube": "no"
+    },
+    {
+        "name": "188",
+        "title": "آشنایی با Inner join",
+        "amendment": "no",
+        "aparat": "l8MBo",
+        "youtube": "no",
+        "source" : "https://www.techonthenet.com/sqlite/joins.php"
+    },
+    {
+        "name": "189",
+        "title": "آشنایی با left outer join ",
+        "amendment": "no",
+        "aparat": "fl2q6",
+        "youtube": "no",
+        "source" : "https://www.techonthenet.com/sqlite/joins.php"
+    },
+    {
+        "name": "190",
+        "title": " آشنایی با cross join ",
+        "amendment": "no",
+        "aparat": "RxB34",
+        "youtube": "no",
+        "source" : "https://www.techonthenet.com/sqlite/joins.php"
+    },
+    {
+        "name": "191",
+        "title": " دستور join روی چندین جدول",
+        "amendment": "no",
+        "aparat": "z35rj",
+        "youtube": "no"
+    },
+    {
+        "name": "192",
+        "title": "دستور join روی چندین جدول (عملی)",
+        "amendment": "no",
+        "aparat": "J76Zv",
+        "youtube": "no"
+    },
+    {
+        "name": "193",
+        "title": "مفهوم مدیریت فرآیند در سیستم عامل ",
+        "amendment": "no",
+        "aparat": "UFQOb",
+        "youtube": "no",
+        "source" : "https://www.javatpoint.com/os-process-management-introduction"
+    },
+    {
+        "name": "194",
+        "title": "مفهوم thread و چرخه عمر نخ",
+        "amendment": "no",
+        "aparat": "zl3wX",
+        "youtube": "no",
+        "source" : "https://www.javatpoint.com/life-cycle-of-a-thread"
+    },
+    {
+        "name": "195",
+        "title": "ساخت thread در جاوا",
+        "amendment": "no",
+        "aparat": "Az8ry",
+        "youtube": "no",
+        "source" : "https://www.javatpoint.com/how-to-create-a-thread-in-java"
+    },
+    {
+        "name": "196",
+        "title": "ساخت thread در جاوا (عملی)",
+        "amendment": "no",
+        "aparat": "FQSEn",
+        "youtube": "no"
+    },
+    {
+        "name": "197",
+        "title": "مفهوم thread scheduler",
+        "amendment": "no",
+        "aparat": "Y3hpi",
+        "youtube": "no",
+        "source" : "https://www.javatpoint.com/thread-scheduler-in-java"
+    },
+    {
+        "name": "198",
+        "title": " تغییر اولویت thread",
+        "amendment": "no",
+        "aparat": "NW7jA",
+        "youtube": "no",
+        "source" : "https://www.javatpoint.com/priority-of-a-thread-in-java"
+    },
+    {
+        "name": "199",
+        "title": "مفهوم thread safe در collections",
+        "amendment": "no",
+        "aparat": "4fx6F",
+        "youtube": "no",
+        "source" : "https://codingcompiler.com/concurrent-collections-in-java/"
+    },
+    {
+        "name": "200",
+        "title": " تابع sleep در thread",
+        "amendment": "no",
+        "aparat": "aZi09",
+        "youtube": "no",
+        "source" : "https://www.tutorialspoint.com/java/lang/thread_sleep_millis"
+    }
+    
+ ]
+}
