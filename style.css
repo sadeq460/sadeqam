@@ -34,7 +34,7 @@ body{
 
 iframe{
     margin-top: 1%;
-    width :75%;
+    width :90%;
     height: 95%;
 }
 
@@ -42,7 +42,7 @@ iframe{
     position: absolute;
     flex: 1; 
     left:0;
-    width:10%;    
+    width:5%;    
     height:100%;
     top:0;
     display: flex;
@@ -52,9 +52,9 @@ iframe{
 }
 
 #center {
-    margin-left:10%;
-    margin-right: 10%;
-    width: 80%;
+    margin-left:5%;
+    margin-right: 5%;
+    width: 90%;
     height: 100%;
     flex: 3;
 
@@ -62,7 +62,7 @@ iframe{
 
 #right{
    position: absolute;
-   width:10%;
+   width:5%;
    right:0;
    height:100%;
    top:0;
@@ -80,7 +80,6 @@ i{
     top: 0;
     right: 0;
     left: 0;
-    height: 35%;
     text-align:right;
     direction: rtl;
     margin-left: 0;
@@ -89,7 +88,6 @@ i{
 
 #option_div{
     position: relative;
-    height: 18%;
     right: 0;
     left: 0;
     bottom: 0;
