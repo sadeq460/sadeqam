@@ -1500,5 +1500,473 @@
         "source" : "https://www.tutorialspoint.com/java/lang/thread_sleep_millis"
     }
     
+ ],
+ "android":[
+    {
+        "name": "1",
+        "title": " ایجاد پروژه در اندروید استودیو ",
+        "amendment": "no",
+        "aparat": "ostNS",
+        "youtube": "no"
+    },
+    {
+        "name": "2",
+        "title": "ایجاد activity",
+        "amendment": "no",
+        "aparat": "OI81r",
+        "youtube": "no"
+    },
+    {
+        "name": "3",
+        "title": "آشنایی کلی با text view",
+        "amendment": "no",
+        "aparat": "Tphy5",
+        "youtube": "no"
+    },
+    {
+        "name": "4",
+        "title": "آشنایی با فایل strings",
+        "amendment": "no",
+        "aparat": "e4vFd",
+        "youtube": "no"
+    },
+    {
+        "name": "5",
+        "title": "مفهوم تراکم پیکسلی صفحه نمایش",
+        "amendment": "no",
+        "aparat": "pxRhn",
+        "youtube": "no",
+        "source" : "https://mybuyingguide.com/what-is-pixel-density"
+    },
+    {
+        "name": "6",
+        "title": "انواع واحد های اندازه گیری",
+        "amendment": "no",
+        "aparat": "4JqSt",
+        "youtube": "no",
+        "source" : "https://flutter-developer.medium.com/android-what-is-the-difference-between-px-dip-dp-and-sp-f0ba0164d208"
+    },
+    {
+        "name": "7",
+        "title": "انواع واحد های اندازه گیری (عملی)",
+        "amendment": "no",
+        "aparat": "AbH5e",
+        "youtube": "no"
+    },
+    {
+        "name": "8",
+        "title": "خصوصیات متن",
+        "amendment": "no",
+        "aparat": "tYPOV",
+        "youtube": "no"
+    },
+    {
+        "name": "9",
+        "title": "مفهوم margin و padding",
+        "amendment": "no",
+        "aparat": "0qWLB",
+        "youtube": "no",
+        "source" : "https://www.studytonight.com/android/margin-vs-padding"
+    },
+    {
+        "name": "10",
+        "title": "مفهوم margin و padding (عملی)",
+        "amendment": "no",
+        "aparat": "94FzZ",
+        "youtube": "no"
+    },
+    {
+        "name": "11",
+        "title": "کار با text view در جاوا",
+        "amendment": "no",
+        "aparat": "W9hIF",
+        "youtube": "no"
+    },
+    {
+        "name": "12",
+        "title": "آشنایی با رویداد کلیک",
+        "amendment": "no",
+        "aparat": "zLwvs",
+        "youtube": "no"
+    },
+    {
+        "name": "13",
+        "title": "آشنایی با edit text",
+        "amendment": "no",
+        "aparat": "WoS8J",
+        "youtube": "no"
+    },
+    {
+        "name": "14",
+        "title": "دریافت ورودی و نمایش خطا",
+        "amendment": "no",
+        "aparat": "BLGp9",
+        "youtube": "no"
+    },
+    {
+        "name": "15",
+        "title": "آشنایی با linear layout",
+        "amendment": "no",
+        "aparat": "BuQSx",
+        "youtube": "no",
+        "source" : "https://www.studytonight.com/android/linear-layout-in-android"
+    },
+    {
+        "name": "16",
+        "title": "کار با linear layout",
+        "amendment": "no",
+        "aparat": "5gz1e",
+        "youtube": "no"
+    },
+    {
+        "name": "17",
+        "title": "ویژگی وزن linear layout",
+        "amendment": "no",
+        "aparat": "iAfeu",
+        "youtube": "no"
+    },
+    {
+        "name": "18",
+        "title": "آشنایی با Relative Layout قسمت اول",
+        "amendment": "no",
+        "aparat": "Mbly7",
+        "youtube": "no",
+        "source" : "https://www.studytonight.com/android/relative-layout-in-android"
+    },
+    {
+        "name": "19",
+        "title": " آشنایی با Relative Layout قسمت دوم",
+        "amendment": "no",
+        "aparat": "10ecZ",
+        "youtube": "no",
+        "source" : "https://www.studytonight.com/android/relative-layout-in-android"
+    },
+    {
+        "name": "20",
+        "title": "کار با RelativeLayout",
+        "amendment": "no",
+        "aparat": "xysin",
+        "youtube": "no"
+    },
+    {
+        "name": "21",
+        "title": "آشنای با scrollView",
+        "amendment": "no",
+        "aparat": "uZmdb",
+        "youtube": "no",
+        "source" : "https://www.studytonight.com/post/how-to-add-a-scrollview-in-android-app"
+    },
+    {
+        "name": "22",
+        "title": "کار با scrollView",
+        "amendment": "no",
+        "aparat": "Qz03M",
+        "youtube": "no"
+    },
+    {
+        "name": "23",
+        "title": " آشنایی با button",
+        "amendment": "no",
+        "aparat": "pHVSg",
+        "youtube": "no",
+        "source" : "https://www.studytonight.com/android/android-button-view"
+    },
+    {
+        "name": "24",
+        "title": "آشنایی مقدماتی با image view",
+        "amendment": "no",
+        "aparat": "5PNrq",
+        "youtube": "no",
+        "source" : "https://abhiandroid.com/ui/imageview"
+    },
+    {
+        "name": "25",
+        "title": "ویژگی scale type در image view",
+        "amendment": "no",
+        "aparat": "WG6vN",
+        "youtube": "no",
+        "source" : "https://blog.mindorks.com/imageview-scaletype-in-android"
+    },
+    {
+        "name": "26",
+        "title": "کار با image view به عنوان قاب icon",
+        "amendment": "no",
+        "aparat": "w1eRv",
+        "youtube": "no"
+    },
+    {
+        "name": "27",
+        "title": "Vector vs Raster",
+        "amendment": "no",
+        "aparat": "RpBhK",
+        "youtube": "no",
+        "source" : "https://lasergods.com/vector-vs-raster"
+    },
+    {
+        "name": "28",
+        "title": "کار با vector",
+        "amendment": "no",
+        "aparat": "nFpHo",
+        "youtube": "no"
+    },
+    {
+        "name": "29",
+        "title": "آشنایی با  9-patch",
+        "amendment": "no",
+        "aparat": "TIReJ",
+        "youtube": "no",
+        "source" : "https://medium.com/flobiz-blog/create-resizable-bitmaps-9-patch-files-48c774db4526"
+    },
+    {
+        "name": "30",
+        "title": "کار با 9-patch",
+        "amendment": "no",
+        "aparat": "XFtN5",
+        "youtube": "no"
+    },
+    {
+        "name": "31",
+        "title": " آشنایی با ProgressBar",
+        "amendment": "no",
+        "aparat": "Mru0C",
+        "youtube": "no",
+        "source" : "https://o7planning.org/12745/android-progressbar"
+    },
+    {
+        "name": "32",
+        "title": "کار با indeterminate progress bar",
+        "amendment": "no",
+        "aparat": "mtaU2",
+        "youtube": "no"
+    },
+    {
+        "name": "33",
+        "title": "کار با determinate progress bar",
+        "amendment": "no",
+        "aparat": "5Ox9Z",
+        "youtube": "no"
+    },
+    {
+        "name": "34",
+        "title": " آشنایی با checkbox",
+        "amendment": "no",
+        "aparat": "IkTfd",
+        "youtube": "no",
+        "source" : "https://abhiandroid.com/ui/checkbox"
+    },
+    {
+        "name": "35",
+        "title": "آشنایی با RadioButton",
+        "amendment": "no",
+        "aparat": "SCtez",
+        "youtube": "no",
+        "source" : "https://abhiandroid.com/ui/radiobutton"
+    },
+    {
+        "name": "36",
+        "title": "کار با checkbox و RadioButton",
+        "amendment": "no",
+        "aparat": "TM8df",
+        "youtube": "no"
+    },
+    {
+        "name": "37",
+        "title": "آشنایی با چرخه عمر اکتیویتی",
+        "amendment": "no",
+        "aparat": "GDtFx",
+        "youtube": "no",
+        "source" : "https://www.tutorialspoint.com/android/android_acitivities.htm"
+    },
+    {
+        "name": "38",
+        "title": "طراحی صفحه لاگین پروژه",
+        "amendment": "no",
+        "aparat": "H8s9z",
+        "youtube": "no"
+    },
+    {
+        "name": "39",
+        "title": "بهبود ظاهر صفحه لاگین پروژه",
+        "amendment": "no",
+        "aparat": "bZLKc",
+        "youtube": "no"
+    },
+    {
+        "name": "40",
+        "title": "کلاس UrlManager پروژه",
+        "amendment": "no",
+        "aparat": "CvapG",
+        "youtube": "no"
+    },
+    {
+        "name": "41",
+        "title": "کلاس JsonManager پروژه",
+        "amendment": "no",
+        "aparat": "GMrUi",
+        "youtube": "no"
+    },
+    {
+        "name": "42",
+        "title": "اینترفیس Requestable پروژه",
+        "amendment": "no",
+        "aparat": "3LUVu",
+        "youtube": "no"
+    },
+    {
+        "name": "43",
+        "title": "کلاس http request پروژه ق اول",
+        "amendment": "no",
+        "aparat": "eBcyI",
+        "youtube": "no"
+    },
+    {
+        "name": "44",
+        "title": "کلاس http request پروژه ق دوم",
+        "amendment": "no",
+        "aparat": "PwUzt",
+        "youtube": "no",
+        "source" : "no"
+    },
+    {
+        "name": "45",
+        "title": " کلاس http request پروژه ق سوم ",
+        "amendment": "no",
+        "aparat": "eqyan",
+        "youtube": "no"
+    },
+    {
+        "name": "46",
+        "title": "کلاس http request پروژه ق چهارم ",
+        "amendment": "no",
+        "aparat": "QFT2a",
+        "youtube": "no"
+    },
+    {
+        "name": "47",
+        "title": "کلاس http request پروژه ق پنجم",
+        "amendment": "no",
+        "aparat": "UYcs9",
+        "youtube": "no"
+    },
+    {
+        "name": "48",
+        "title": "کلاس https request پروژه ",
+        "amendment": "no",
+        "aparat": "2ZsGJ",
+        "youtube": "no"
+    },
+    {
+        "name": "49",
+        "title": "کلاس مربوط به لاگین کاربر ق اول",
+        "amendment": "no",
+        "aparat": "Ckx7F",
+        "youtube": "no"
+    },
+    {
+        "name": "50",
+        "title": "کلاس مربوط به لاگین کاربر ق دوم",
+        "amendment": "no",
+        "aparat": "cZNWq",
+        "youtube": "no"
+    },
+    {
+        "name": "51",
+        "title": "کلاس مربوط به لاگین کاربر ق سوم",
+        "amendment": "no",
+        "aparat": "w6yn9",
+        "youtube": "no"
+    },
+    {
+        "name": "52",
+        "title": "اکتیویتی لاگین پروژه ق اول ",
+        "amendment": "no",
+        "aparat": "4oSfe",
+        "youtube": "no"
+    },
+    {
+        "name": "53",
+        "title": "برسی وضعیت اتصال به شبکه ",
+        "amendment": "no",
+        "aparat": "T9d3J",
+        "youtube": "no"
+    },
+    {
+        "name": "54",
+        "title": "اکتیویتی لاگین پروژه ق دوم ",
+        "amendment": "no",
+        "aparat": "jtxZb",
+        "youtube": "no"
+    },
+    {
+        "name": "55",
+        "title": "اکتیویتی لاگین پروژه ق سوم",
+        "amendment": "no",
+        "aparat": "eJiyu",
+        "youtube": "no"
+    },
+    {
+        "name": "56",
+        "title": "اکتیویتی لاگین پروژه ق چهارم ",
+        "amendment": "no",
+        "aparat": "NgDvy",
+        "youtube": "no"
+    },
+    {
+        "name": "57",
+        "title": "تست اولیه اکتیویتی لاگین پروژه ",
+        "amendment": "no",
+        "aparat": "G9km6",
+        "youtube": "no"
+    },
+    {
+        "name": "58",
+        "title": "کلاس SQLite Helper پروژه",
+        "amendment": "no",
+        "aparat": "Cn2PE",
+        "youtube": "no"
+    },
+    {
+        "name": "59",
+        "title": "کلاس SQLite Handler پروژه ق اول ",
+        "amendment": "no",
+        "aparat": "vgVL8",
+        "youtube": "no"
+    },
+    {
+        "name": "60",
+        "title": "اضافه کردن یک رکورد به جدول تنظیمات ",
+        "amendment": "no",
+        "aparat": "ivL7a",
+        "youtube": "no"
+    },
+    {
+        "name": "61",
+        "title": "خواندن یک رکورد از جدول تنظیمات ",
+        "amendment": "no",
+        "aparat": "j0DPd",
+        "youtube": "no"
+    },
+    {
+        "name": "62",
+        "title": "خواندن همه رکورد ها از جدول تنظیمات",
+        "amendment": "no",
+        "aparat": "5ItGc",
+        "youtube": "no"
+    },
+    {
+        "name": "63",
+        "title": "ویرایش کردن رکورد در جدول تنظیمات",
+        "amendment": "no",
+        "aparat": "FTqo3",
+        "youtube": "no"
+    },
+    {
+        "name": "64",
+        "title": "حذف کردن رکورد از جدول تنظیمات",
+        "amendment": "no",
+        "aparat": "SLWzQ",
+        "youtube": "no"
+    }
+
  ]
 }
