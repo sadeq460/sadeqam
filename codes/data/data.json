@@ -1,6 +1,7 @@
 { 
 "java":[
     {
+        "id" : "introduction-1",
         "name": "1",
         "title": "مقدمه",
         "amendment": "no",
@@ -8,6 +9,7 @@
         "youtube": "tQNWS88Ecgs"
     },
     {
+        "id" : "introduction-2",
         "name": "2",
         "title": "مقدمه",
         "amendment": "no",
@@ -15,6 +17,7 @@
         "youtube": "GQdpbLqB1Rs"
     },
     {
+        "id" : "introduction-3",
         "name": "3",
         "title": "مقدمه",
         "amendment": "no",
@@ -22,6 +25,7 @@
         "youtube": "ewPKvFhRXQ4"
     },
     {
+        "id" : "introduction-4",
         "name": "4",
         "title": "مقدمه",
         "amendment": "no",
@@ -29,6 +33,7 @@
         "youtube": "amRBvBBEz6Y"
     },
     {
+        "id" : "introduction-5",
         "name": "5",
         "title": "مقدمه",
         "amendment": "no",
@@ -36,6 +41,7 @@
         "youtube": "AaZKTftDN5Y"
     },
     {
+        "id" : "install-1",
         "name": "6",
         "title": "نصب نرم افزار",
         "amendment": "no",
@@ -43,6 +49,7 @@
         "youtube": "a9S9HNyYSws"
     },
     {
+        "id" : "install-2",
         "name": "7",
         "title": "نصب نرم افزار",
         "amendment": "no",
@@ -50,6 +57,7 @@
         "youtube": "a3p4VEMnXjw"
     },
     {
+        "id" : "install-3",
         "name": "8",
         "title": "نصب نرم افزار",
         "amendment": "no",
@@ -57,6 +65,7 @@
         "youtube": "iT3kNvi2S_s"
     },
     {
+        "id" : "install-4",
         "name": "9",
         "title": "نصب نرم افزار",
         "amendment": "no",
@@ -64,6 +73,7 @@
         "youtube": "0DCsVQ0wejM"
     },
     {
+        "id" : "variable-constants-concept",
         "name": "10",
         "title": "مفهوم متغیر و ثابت",
         "amendment": "no",
@@ -71,6 +81,7 @@
         "youtube": "oo6aT2C7gh0"
     },
     {
+        "id" : "variable",
         "name": "11",
         "title": "متغیر ها",
         "amendment": "no",
@@ -78,6 +89,7 @@
         "youtube": "no"
     },
     {
+        "id" : "variable-code",
         "name": "12",
         "title": "تعریف متغیر",
         "amendment": "no",
@@ -85,6 +97,7 @@
         "youtube": "no"
     },
     {
+        "id" : "algebraic-operations",
         "name": "13",
         "title": "عملیات جبری",
         "amendment": "no",
@@ -92,6 +105,7 @@
         "youtube": "no"
     },
     {
+        "id" : "algebraic-operations-code",
         "name": "14",
         "title": "عملیات جبری (عملی)",
         "amendment": "no",
@@ -99,6 +113,7 @@
         "youtube": "no"
     },
     {
+        "id" : "comparative-operator",
         "name": "15",
         "title": "عملگر های مقایسه ای",
         "amendment": "no",
@@ -106,6 +121,7 @@
         "youtube": "no"
     },
     {
+        "id" : "comparative-operator-code",
         "name": "16",
         "title": "عملگر های مقایسه ای (عملی)",
         "amendment": "no",
@@ -113,6 +129,7 @@
         "youtube": "no"
     },
     {
+        "id" : "function-concept",
         "name": "17",
         "title": "مفهوم تابع",
         "amendment": "no",
@@ -120,6 +137,7 @@
         "youtube": "no"
     },
     {
+        "id" : "function-concept-code",
         "name": "18",
         "title": "تابع ها (عملی)",
         "amendment": "no",
@@ -127,6 +145,7 @@
         "youtube": "no"
     },
     {
+        "id" : "conditional-expression",
         "name": "19",
         "title": " عبارت شرطی",
         "amendment": "no",
@@ -134,6 +153,7 @@
         "youtube": "no"
     },
     {
+        "id" : "conditional-expression-code",
         "name": "20",
         "title": "عبارت شرطی (عملی)",
         "amendment": "no",
@@ -141,6 +161,7 @@
         "youtube": "no"
     },
     {
+        "id" : "while-loop",
         "name": "21",
         "title": "حلقه while",
         "amendment": "no",
@@ -149,6 +170,7 @@
         "source" : "https://www.programiz.com/java-programming/do-while-loop"
     },
     {
+        "id" : "while-loop-code",
         "name": "22",
         "title": "حلقه while (عملی)",
         "amendment": "no",
@@ -156,6 +178,7 @@
         "youtube": "no"
     },
     {
+        "id" : "do-while",
         "name": "23",
         "title": "حلقه do... while",
         "amendment": "no",
@@ -164,6 +187,7 @@
         "source" : "https://www.programiz.com/java-programming/do-while-loop"
     },
     {
+        "id" : "do-while-code",
         "name": "24",
         "title": "حلقه do... while (عملی)",
         "amendment": "no",
@@ -171,6 +195,7 @@
         "youtube": "no"
     },
     {
+        "id" : "for-loop",
         "name": "25",
         "title": "حلقه for",
         "amendment": "no",
@@ -178,6 +203,7 @@
         "youtube": "no"
     },
     {
+        "id" : "for-loop-code",
         "name": "26",
         "title": "حلقه for (عملی)",
         "amendment": "no",
@@ -185,6 +211,7 @@
         "youtube": "no"
     },
     {
+        "id" : "assignment-operator",
         "name": "27",
         "title": "عملگر های انتساب ترکیبی و افزایشی/کاهشی",
         "amendment": "no",
@@ -192,6 +219,7 @@
         "youtube": "no"
     },
     {
+        "id" : "assignment-operator-code",
         "name": "28",
         "title": "عملگر های انتساب ترکیبی و افزایشی/کاهشی (عملی)",
         "amendment": "no",
@@ -199,6 +227,7 @@
         "youtube": "no"
     },
     {
+        "id" : "logical-expressions",
         "name": "29",
         "title": "مفهوم اعمال منطقی",
         "amendment": "no",
@@ -207,6 +236,7 @@
         "source" : "https://www.electronics-tutorials.ws/boolean/bool_7.html"
     },
     {
+        "id" : "logical-expressions-code",
         "name": "30",
         "title": "مفهوم اعمال منطقی (عملی)",
         "amendment": "no",
@@ -214,6 +244,7 @@
         "youtube": "no"
     },
     {
+        "id" : "string",
         "name": "31",
         "title": "آشنایی کلی با String",
         "amendment": "no",
@@ -222,6 +253,7 @@
         "source" : "https://www.geeksforgeeks.org/strings-in-java/"
     },
     {
+        "id" : "string-code",
         "name": "32",
         "title": " آشنایی کلی با String (عملی)",
         "amendment": "no",
@@ -229,6 +261,7 @@
         "youtube": "no"
     },
     {
+        "id" : "array-concept",
         "name": "33",
         "title": " مفهوم آرایه",
         "amendment": "no",
@@ -236,6 +269,7 @@
         "youtube": "no"
     },
     {
+        "id" : "array-code",
         "name": "34",
         "title": "مفهوم آرایه (عملی)",
         "amendment": "no",
@@ -243,6 +277,7 @@
         "youtube": "no"
     },
     {
+        "id" : "multidimensional-array",
         "name": "35",
         "title": "مفهوم آرایه های چند بعدی",
         "amendment": "no",
@@ -250,6 +285,7 @@
         "youtube": "no"
     },
     {
+        "id" : "nested-for",
         "name": "36",
         "title": "برسی حلقه های تودرتو",
         "amendment": "no",
@@ -258,6 +294,7 @@
         "source" : "https://mathbits.com/MathBits/Java/Looping/NestedFor.htm"
     },
     {
+        "id" : "multidimensional-array-code",
         "name": "37",
         "title": "آرایه های چند بعدی (عملی)",
         "amendment": "no",
@@ -265,6 +302,7 @@
         "youtube": "no"
     },
     {
+        "id" : "break-continue",
         "name": "38",
         "title": " آشنای با break و continue",
         "amendment": "no",
@@ -273,6 +311,7 @@
         "source" : "http://net-informations.com/java/sts/break.htm"
     },
     {
+        "id" : "break-continue-code",
         "name": "39",
         "title": " آشنای با break و continue (عملی)",
         "amendment": "no",
@@ -280,6 +319,7 @@
         "youtube": "no"
     },
     {
+        "id" : "variable-scoping",
         "name": "40",
         "title": "مفهوم محدوده متغیر ها",
         "amendment": "no",
@@ -288,6 +328,7 @@
         "source" : "https://openclassrooms.com/en/courses/5667431-learn-programming-with-java/5906889-understand-variable-scoping-and-access-control"
     },
     {
+        "id" : "variable-scoping-code",
         "name": "41",
         "title": "مفهوم محدوده متغیر ها (عملی)",
         "amendment": "no",
@@ -295,6 +336,7 @@
         "youtube": "no"
     },
     {
+        "id" : "garbage-collection",
         "name": "42",
         "title": "مفهوم garbage collection",
         "amendment": "no",
@@ -303,6 +345,7 @@
         "source" : "https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm"
     },
     {
+        "id" : "string-comparison",
         "name": "43",
         "title": "مقایسه رشته ها",
         "amendment": "no",
@@ -311,6 +354,7 @@
         "source" : "https://www.javatpoint.com/string-comparison-in-java"
     },
     {
+        "id" : "string-comparison-code",
         "name": "44",
         "title": "مقایسه رشته ها (عملی)",
         "amendment": "no",
@@ -318,6 +362,7 @@
         "youtube": "no"
     },
     {
+        "id" : "switch",
         "name": "45",
         "title": "آشنایی با switch",
         "amendment": "no",
@@ -326,6 +371,7 @@
         "source" : "https://www.baeldung.com/java-switch"
     },
     {
+        "id" : "switch-code",
         "name": "46",
         "title": " آشنایی با switch (عملی)",
         "amendment": "no",
@@ -333,6 +379,7 @@
         "youtube": "no"
     },
     {
+        "id" : "oop-object-class",
         "name": "47",
         "title": "مفهوم شی گرایی class و object",
         "amendment": "no",
@@ -341,6 +388,7 @@
         "source" : "https://www.guru99.com/java-oops-class-objects.html"
     },
     {
+        "id" : "oop-object-class-code",
         "name": "48",
         "title": "مفهوم شی گرایی class و object (عملی)",
         "amendment": "no",
@@ -348,6 +396,7 @@
         "youtube": "no"
     },
     {
+        "id" : "oop-constructor",
         "name": "49",
         "title": "مفهوم شی گرایی تابع سازنده",
         "amendment": "no",
@@ -356,6 +405,7 @@
         "source" : "https://beginnersbook.com/2013/03/constructors-in-java/"
     },
     {
+        "id" : "oop-constructor-code",
         "name": "50",
         "title": "مفهوم شی گرایی تابع سازنده (عملی)",
         "amendment": "no",
@@ -363,6 +413,7 @@
         "youtube": "no"
     },
     {
+        "id" : "oop-overloading",
         "name": "51",
         "title": "مفهوم شی گرایی Method Overloading",
         "amendment": "کلمه overloading در ویدیو اشتباها overriding تلفظ شده",
@@ -371,6 +422,7 @@
         "source" : "https://beginnersbook.com/2013/05/method-overloading/"
     },
     {
+        "id" : "oop-overloading-code",
         "name": "52",
         "title": "مفهوم شی گرایی Method Overloading (عملی)",
         "amendment": "کلمه overloading در ویدیو اشتباها overriding تلفظ شده",
@@ -378,6 +430,7 @@
         "youtube": "no"
     },
     {
+        "id" : "oop-encapsulation",
         "name": "53",
         "title": "مفهوم شی گرایی کپسوله سازی",
         "amendment": "no",
@@ -386,6 +439,7 @@
         "source" : "https://www.guru99.com/java-oops-encapsulation.html"
     },
     {
+        "id" : "oop-encapsulation-code",
         "name": "54",
         "title": "مفهوم شی گرایی کپسوله سازی (عملی)",
         "amendment": "no",
@@ -393,6 +447,7 @@
         "youtube": "no"
     },
     {
+        "id" : "oop-inheritance",
         "name": "55",
         "title": "مفهوم شی گرایی وراثت",
         "amendment": "no",
@@ -401,6 +456,7 @@
         "source" : "https://www.scientecheasy.com/2020/07/inheritance-in-java.html"
     },
     {
+        "id" : "oop-inheritance-code",
         "name": "56",
         "title": "مفهوم شی گرایی وراثت (عملی)",
         "amendment": "no",
@@ -408,6 +464,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SOLID-single-responsibility",
         "name": "57",
         "title": "مفهوم شی گرایی قوانین SOLID تک وظیفه ای",
         "amendment": "no",
@@ -416,6 +473,7 @@
         "source" : "https://www.baeldung.com/solid-principles"
     },
     {
+        "id" : "SOLID-open-close",
         "name": "58",
         "title": " مفهوم شی گرایی قوانین SOLID اصل open/close",
         "amendment": "no",
@@ -424,6 +482,7 @@
         "source" : "https://www.baeldung.com/solid-principles"
     },
     {
+        "id" : "oop-interface",
         "name": "59",
         "title": "مفهوم شی گرایی interface",
         "amendment": "no",
@@ -432,6 +491,7 @@
         "source" : "https://www.dummies.com/programming/java/what-is-an-interface-in-java/"
     },
     {
+        "id" : "oop-interface-code",
         "name": "60",
         "title": "مفهوم شی گرایی interface (عملی)",
         "amendment": "no",
@@ -439,6 +499,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SOLID-Liskov",
         "name": "61",
         "title": "مفهوم شی گرایی قوانین SOLID اصل Liskov",
         "amendment": "no",
@@ -447,6 +508,7 @@
         "source" : "https://www.baeldung.com/solid-principles"
     },
     {
+        "id" : "SOLID-interface-segregation",
         "name": "62",
         "title": "مفهوم شی گرایی قوانین SOLID اصل تفکیک اینترفیس",
         "amendment": "no",
@@ -455,6 +517,7 @@
         "source" : "https://www.baeldung.com/solid-principles"
     },
     {
+        "id" : "opp-abstraction",
         "name": "63",
         "title": " شی گرایی مفهوم Abstraction و کلاس انتزاعی",
         "amendment": "no",
@@ -463,6 +526,7 @@
         "source" : "https://www.programiz.com/java-programming/abstract-classes-methods"
     },
     {
+        "id" : "opp-abstraction-code",
         "name": "64",
         "title": " شی گرایی کلاس انتزاعی (عملی)",
         "amendment": "no",
@@ -470,6 +534,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SOLID-dependency-inversion",
         "name": "65",
         "title": "شی گرایی SOLID اصل Dependency Inversion",
         "amendment": "no",
@@ -478,6 +543,7 @@
         "source" : "https://javatechonline.com/solid-principles-the-dependency-inversion-principle/"
     },
     {
+        "id" : "oop-static",
         "name": "66",
         "title": "شی گرایی مفهوم static",
         "amendment": "no",
@@ -486,6 +552,7 @@
         "source" : "https://www.freecodecamp.org/news/java-static-keyword-explained/"
     },
     {
+        "id" : "oop-static-code",
         "name": "67",
         "title": "شی گرایی مفهوم static (عملی)",
         "amendment": "no",
@@ -493,6 +560,7 @@
         "youtube": "no"
     },
     {
+        "id" : "nested-inner-class",
         "name": "68",
         "title": "شی گرایی Nested Inner class",
         "amendment": "no",
@@ -501,6 +569,7 @@
         "source" : "https://www.geeksforgeeks.org/inner-class-java/"
     },
     {
+        "id" : "nested-inner-class-code",
         "name": "69",
         "title": "شی گرایی Nested Inner class (عملی)",
         "amendment": "no",
@@ -508,6 +577,7 @@
         "youtube": "no"
     },
     {
+        "id" : "oop-final",
         "name": "70",
         "title": "شی گرایی کلمه کلیدی final",
         "amendment": "no",
@@ -516,6 +586,7 @@
         "source" : "https://www.tutorialkart.com/java/final-keyword-in-java"
     },
     {
+        "id" : "method-local-inner-class",
         "name": "71",
         "title": "شی گرایی method local Inner class",
         "amendment": "no",
@@ -524,6 +595,7 @@
         "source" : "https://www.geeksforgeeks.org/inner-class-java/"
     },
     {
+        "id" : "method-local-inner-class-code",
         "name": "72",
         "title": "شی گرایی Method Local inner class (عملی)",
         "amendment": "no",
@@ -531,6 +603,7 @@
         "youtube": "no"
     },
     {
+        "id" : "anonymous-inner-class",
         "name": "73",
         "title": " شی گرایی anonymous inner class",
         "amendment": "no",
@@ -539,6 +612,7 @@
         "source" : "https://www.javatpoint.com/anonymous-inner-class"
     },
     {
+        "id" : "anonymous-inner-class-code",
         "name": "74",
         "title": "شی گرایی anonymous inner class (عملی)",
         "amendment": "no",
@@ -546,6 +620,7 @@
         "youtube": "no"
     },
     {
+        "id" : "static-nested-class",
         "name": "75",
         "title": " شی گرایی Static Nested class",
         "amendment": "no",
@@ -554,6 +629,7 @@
         "source" : "http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/8-List/nested-class.html"
     },
     {
+        "id" : "static-nested-class-code",
         "name": "76",
         "title": "شی گرایی Static nested class (عملی)",
         "amendment": "no",
@@ -561,6 +637,7 @@
         "youtube": "no"
     },
     {
+        "id" : "byRef-or-byVal",
         "name": "77",
         "title": " byVal یا byRef",
         "amendment": "no",
@@ -569,6 +646,7 @@
         "source" : "https://howtodoinjava.com/java/basics/java-is-pass-by-value-lets-see-how/"
     },
     {
+        "id" : "programming-errors",
         "name": "78",
         "title": "انواع خطا ها در برنامه نویسی ",
         "amendment": "no",
@@ -577,6 +655,7 @@
         "source" : "https://codeforwin.org/2015/05/introduction-to-programming-errors.html"
     },
     {
+        "id" : "exception-1",
         "name": "79",
         "title": " exception ها قسمت اول",
         "amendment": "no",
@@ -585,6 +664,7 @@
         "source" : "https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/"
     },
     {
+        "id" : "exception-2",
         "name": "80",
         "title": " exception ها قسمت دوم",
         "amendment": "no",
@@ -593,6 +673,7 @@
         "source" : "https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/"
     },
     {
+        "id" : "exception-2-code",
         "name": "81",
         "title": " exception ها (عملی)",
         "amendment": "no",
@@ -600,6 +681,7 @@
         "youtube": "no"
     },
     {
+        "id" : "throwable-class",
         "name": "82",
         "title": "سلسله‌ مراتب کلاس Throwable",
         "amendment": "no",
@@ -608,6 +690,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "checked-exceptions",
         "name": "83",
         "title": "checked exceptions",
         "amendment": "no",
@@ -616,6 +699,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "checked-exceptions-code",
         "name": "84",
         "title": "checked exceptions (عملی)",
         "amendment": "no",
@@ -623,6 +707,7 @@
         "youtube": "no"
     },
     {
+        "id" : "unchecked-exceptions",
         "name": "85",
         "title": "unchecked exceptions",
         "amendment": "no",
@@ -631,6 +716,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "unchecked-exceptions-code",
         "name": "86",
         "title": " unchecked exceptions (عملی)",
         "amendment": "no",
@@ -638,6 +724,7 @@
         "youtube": "no"
     },
     {
+        "id" : "try-catch",
         "name": "87",
         "title": "نگاهی عمیق تر به try/catch",
         "amendment": "no",
@@ -646,6 +733,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "try-catch-code",
         "name": "88",
         "title": "نگاهی عمیق تر به try/catch (عملی)",
         "amendment": "no",
@@ -653,6 +741,7 @@
         "youtube": "no"
     },
     {
+        "id" : "try-with-resources",
         "name": "89",
         "title": "Try-With-Resources",
         "amendment": "no",
@@ -661,6 +750,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "try-with-resources-code",
         "name": "90",
         "title": " Try-With-Resources (عملی)",
         "amendment": "no",
@@ -668,6 +758,7 @@
         "youtube": "no"
     },
     {
+        "id" : "custom-exception",
         "name": "91",
         "title": "exception های سفارشی",
         "amendment": "no",
@@ -676,6 +767,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "custom-exception-code",
         "name": "92",
         "title": "exception های سفارشی (عملی)",
         "amendment": "no",
@@ -683,6 +775,7 @@
         "youtube": "no"
     },
     {
+        "id" : "exception-optimism-1",
         "name": "93",
         "title": " بهینگی در exception ها قسمت اول",
         "amendment": "no",
@@ -691,6 +784,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "exception-optimism-2",
         "name": "94",
         "title": "بهینگی در exception ها قسمت دوم",
         "amendment": "no",
@@ -699,6 +793,7 @@
         "source" : "https://sematext.com/blog/java-exceptions/"
     },
     {
+        "id" : "linked-list-algorithms-1",
         "name": "95",
         "title": "مفهوم لیست پیوندی قسمت اول",
         "amendment": "no",
@@ -707,6 +802,7 @@
         "source" : "https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm"
     },
     {
+        "id" : "linked-list-algorithms-2",
         "name": "96",
         "title": "مفهوم لیست پیوندی قسمت دوم",
         "amendment": "no",
@@ -715,6 +811,7 @@
         "source" : "https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm"
     },
     {
+        "id" : "LinkedList",
         "name": "97",
         "title": "LinkedList",
         "amendment": "no",
@@ -723,6 +820,7 @@
         "source" : "https://www.programiz.com/java-programming/linkedlist"
     },
     {
+        "id" : "LinkedList-code",
         "name": "98",
         "title": "LinkedList (عملی)",
         "amendment": "no",
@@ -730,6 +828,7 @@
         "youtube": "no"
     },
     {
+        "id" : "queue-consept",
         "name": "99",
         "title": " مفهوم صف یا queue",
         "amendment": "no",
@@ -738,6 +837,7 @@
         "source" : "https://www.programiz.com/dsa/queue"
     },
     {
+        "id" : "queue-interface",
         "name": "100",
         "title": "اینترفیس queue ",
         "amendment": "no",
@@ -746,6 +846,7 @@
         "source" : "https://www.programiz.com/java-programming/queue"
     },
     {
+        "id" : "queue-interface-code",
         "name": "101",
         "title": "اینترفیس queue (عملی)",
         "amendment": "no",
@@ -753,6 +854,7 @@
         "youtube": "no"
     },
     {
+        "id" : "stack-consept",
         "name": "102",
         "title": "مفهوم پشته یا stack",
         "amendment": "no",
@@ -761,6 +863,7 @@
         "source" : "https://www.programiz.com/dsa/stack"
     },
     {
+        "id" : "stack-class",
         "name": "103",
         "title": "کلاس Stack",
         "amendment": "no",
@@ -769,6 +872,7 @@
         "source" : "https://www.programiz.com/java-programming/stack"
     },
     {
+        "id" : "stack-class-code",
         "name": "104",
         "title": "کلاس Stack (عملی)",
         "amendment": "no",
@@ -776,6 +880,7 @@
         "youtube": "no"
     },
     {
+        "id" : "arrayList-class",
         "name": "105",
         "title": " آشنایی کلی با کلاس ArrayList",
         "amendment": "no",
@@ -784,6 +889,7 @@
         "source" : "https://www.programiz.com/java-programming/arraylist"
     },
     {
+        "id" : "arrayList-internal-working",
         "name": "106",
         "title": "نحوه تغییر خودکار اندازه ArrayList",
         "amendment": "no",
@@ -792,6 +898,7 @@
         "source" : "https://javagoal.com/internal-working-of-arraylist-in-java/"
     },
     {
+        "id" : "arrayList-vs-linkedList",
         "name": "107",
         "title": "ArrayList vs LinkedList",
         "amendment": "no",
@@ -800,6 +907,7 @@
         "source" : "https://javahungry.blogspot.com/2015/04/difference-between-arraylist-and-linkedlist-in-java-example.html?m=1"
     },
     {
+        "id" : "arrayList-class-code",
         "name": "108",
         "title": "کلاس ArrayList (عملی)",
         "amendment": "no",
@@ -807,6 +915,7 @@
         "youtube": "no"
     },
     {
+        "id" : "map-ds",
         "name": "109",
         "title": " آشنایی با ساختمان داده map",
         "amendment": "no",
@@ -815,6 +924,7 @@
         "source" : "https://www.programiz.com/java-programming/map"
     },
     {
+        "id" : "hashMap-class",
         "name": "110",
         "title": "کلاس HashMap",
         "amendment": "مفهوم hash مورد برسی دقیق قرار نگرفته و فقط در رابطه با کلاس پیاده سازی شده با این مفهوم آشنا می‌شویم",
@@ -823,6 +933,7 @@
         "source" : "https://www.programiz.com/java-programming/map"
     },
     {
+        "id" : "hashMap-class-code",
         "name": "111",
         "title": "کلاس HashMap (عملی)",
         "amendment": "no",
@@ -830,6 +941,7 @@
         "youtube": "no"
     },
     {
+        "id" : "linkedHashMap-consept",
         "name": "112",
         "title": "مفهوم LinkedHashMap",
         "amendment": "no",
@@ -838,6 +950,7 @@
         "source" : "https://howtodoinjava.com/java/collections/linkedhashmap/"
     },
     {
+        "id" : "linkedHashMap-class",
         "name": "113",
         "title": "کلاس LinkedHashMap",
         "amendment": "no",
@@ -846,6 +959,7 @@
         "source" : "https://howtodoinjava.com/java/collections/linkedhashmap/"
     },
     {
+        "id" : "linkedHashMap-class-code",
         "name": "114",
         "title": "کلاس LinkedHashMap (عملی)",
         "amendment": "no",
@@ -853,6 +967,7 @@
         "youtube": "no"
     },
     {
+        "id" : "strong-reference",
         "name": "115",
         "title": "مفهوم Strong Reference",
         "amendment": "no",
@@ -861,6 +976,7 @@
         "source" : "https://iq.opengenus.org/types-of-references-in-java/"
     },
     {
+        "id" : "soft-reference",
         "name": "116",
         "title": "مفهوم Soft Reference",
         "amendment": "no",
@@ -869,6 +985,7 @@
         "source" : "https://iq.opengenus.org/types-of-references-in-java/"
     },
     {
+        "id" : "weak-reference",
         "name": "117",
         "title": "مفهوم Weak Reference",
         "amendment": "no",
@@ -877,6 +994,7 @@
         "source" : "https://iq.opengenus.org/types-of-references-in-java/"
     },
     {
+        "id" : "why-finalize-deprecated",
         "name": "118",
         "title": "تابع Finalize و دلیل منسوخ شدن آن ",
         "amendment": "no",
@@ -885,6 +1003,7 @@
         "source" : "https://kheri.net/java-finalize-method-and-why-its-deprecated/"
     },
     {
+        "id" : "phantom-reference",
         "name": "119",
         "title": "مفهوم Phantom Reference",
         "amendment": "no",
@@ -893,6 +1012,7 @@
         "source" : "https://o7planning.org/13697/java-phantomreference"
     },
     {
+        "id" : "weakHashMap-class",
         "name": "120",
         "title": "کلاس WeakHashMap",
         "amendment": "no",
@@ -901,6 +1021,7 @@
         "source" : "https://www.javacodegeeks.com/2019/05/weakhashmap-java.html"
     },
     {
+        "id" : "weakHashMap-class-code",
         "name": "121",
         "title": "کلاس WeakHashMap (عملی)",
         "amendment": "no",
@@ -908,6 +1029,7 @@
         "youtube": "no"
     },
     {
+        "id" : "tree-consept",
         "name": "122",
         "title": "مفهوم درخت یا tree",
         "amendment": "no",
@@ -916,6 +1038,7 @@
         "source" : "https://www.programiz.com/dsa/trees"
     },
     {
+        "id" : "tree-node-first",
         "name": "123",
         "title": "Tree کلاس Node ق اول",
         "amendment": "no",
@@ -923,6 +1046,7 @@
         "youtube": "no"
     },
     {
+        "id" : "tree-node-second",
         "name": "124",
         "title": "Tree کلاس Node ق دوم",
         "amendment": "no",
@@ -930,6 +1054,7 @@
         "youtube": "no"
     },
     {
+        "id" : "tree-class-first",
         "name": "125",
         "title": "Tree کلاس درخت ق اول",
         "amendment": "no",
@@ -937,6 +1062,7 @@
         "youtube": "no"
     },
     {
+        "id" : "tree-inorder",
         "name": "126",
         "title": " پیمایش in order یک درخت ",
         "amendment": "no",
@@ -945,6 +1071,7 @@
         "source" : "https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm"
     },
     {
+        "id" : "tree-preorder",
         "name": "127",
         "title": " پیمایش pre order یک درخت",
         "amendment": "no",
@@ -953,6 +1080,7 @@
         "source" : "https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm"
     },
     {
+        "id" : "tree-postorder",
         "name": "128",
         "title": "پیمایش post order یک درخت",
         "amendment": "no",
@@ -961,6 +1089,7 @@
         "source" : "https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm"
     },
     {
+        "id" : "recursion-functions",
         "name": "129",
         "title": "مفهوم توابع بازگشتی",
         "amendment": "no",
@@ -969,6 +1098,7 @@
         "source" : "https://www.programiz.com/java-programming/recursion"
     },
     {
+        "id" : "tree-inorder-code",
         "name": "130",
         "title": "پیمایش in order (عملی)",
         "amendment": "no",
@@ -976,6 +1106,7 @@
         "youtube": "no"
     },
     {
+        "id" : "tree-preorder-code",
         "name": "131",
         "title": " پیمایش pre order (عملی)",
         "amendment": "no",
@@ -983,6 +1114,7 @@
         "youtube": "no"
     },
     {
+        "id" : "tree-postorder-code",
         "name": "132",
         "title": "پیمایش post order (عملی) (trace)",
         "amendment": "no",
@@ -990,6 +1122,7 @@
         "youtube": "no"
     },
     {
+        "id" : "wrapper-class",
         "name": "133",
         "title": "مفهوم Wrapper class",
         "amendment": "no",
@@ -998,6 +1131,7 @@
         "source" : "https://www.programiz.com/java-programming/wrapper"
     },
     {
+        "id" : "generic-classes",
         "name": "134",
         "title": "مفهوم کلاس های Generic",
         "amendment": "no",
@@ -1006,6 +1140,7 @@
         "source" : "https://www.koderhq.com/tutorial/java/generic/"
     },
     {
+        "id" : "generic-classes-code",
         "name": "135",
         "title": "کلاس های Generic (عملی)",
         "amendment": "no",
@@ -1013,6 +1148,7 @@
         "youtube": "no"
     },
     {
+        "id" : "generic-tree",
         "name": "136",
         "title": "درخت Generic",
         "amendment": "no",
@@ -1020,6 +1156,7 @@
         "youtube": "no"
     },
     {
+        "id" : "tree-node-parent",
         "name": "137",
         "title": "درخت، اضافه کردن آدرس parent",
         "amendment": "no",
@@ -1027,6 +1164,7 @@
         "youtube": "no"
     },
     {
+        "id" : "breadth-first-search",
         "name": "138",
         "title": " پیمایش اول سطح درخت ",
         "amendment": "no",
@@ -1035,6 +1173,7 @@
         "source" : "https://www.journaldev.com/44201/breadth-first-search-depth-first-search-bfs-dfs"
     },
     {
+        "id" : "breadth-first-search-code",
         "name": "139",
         "title": "پیمایش اول سطح درخت (عملی)(Trace)",
         "amendment": "no",
@@ -1042,6 +1181,7 @@
         "youtube": "no"
     },
     {
+        "id" : "binary-expression-tree",
         "name": "140",
         "title": "مفهوم درخت عبارت",
         "amendment": "no",
@@ -1050,6 +1190,7 @@
         "source" : "https://www.techiedelight.com/evaluate-binary-expression-tree/"
     },
     {
+        "id" : "binary-expression-tree-code",
         "name": "141",
         "title": "مفهوم درخت عبارت (عملی)(Trace)",
         "amendment": "no",
@@ -1057,6 +1198,7 @@
         "youtube": "no"
     },
     {
+        "id" : "create-expression-tree",
         "name": "142",
         "title": "الگوریتم ساخت درخت عبارت",
         "amendment": "no",
@@ -1065,6 +1207,7 @@
         "source" : "https://csveda.com/expression-tree/"
     },
     {
+        "id" : "create-expression-tree-code",
         "name": "143",
         "title": "الگوریتم ساخت درخت عبارت (عملی)",
         "amendment": "no",
@@ -1072,6 +1215,7 @@
         "youtube": "no"
     },
     {
+        "id" : "expression-tree-trace",
         "name": "144",
         "title": "الگوریتم ساخت درخت عبارت (trace)",
         "amendment": "no",
@@ -1079,6 +1223,7 @@
         "youtube": "no"
     },
     {
+        "id" : "treeMap-class",
         "name": "145",
         "title": "کلاس TreeMap",
         "amendment": "no",
@@ -1087,6 +1232,7 @@
         "source" : "https://www.programiz.com/java-programming/treemap"
     },
     {
+        "id" : "treeMap-class-code",
         "name": "146",
         "title": "کلاس TreeMap (عملی)",
         "amendment": "no",
@@ -1094,6 +1240,7 @@
         "youtube": "no"
     },
     {
+        "id" : "comparable-interface",
         "name": "147",
         "title": "اینترفیس Comparable",
         "amendment": "no",
@@ -1102,6 +1249,7 @@
         "source" : "https://www.scientecheasy.com/2021/01/comparable-interface-in-java.html/"
     },
     {
+        "id" : "comparable-interface-generic",
         "name": "148",
         "title": "Comparable در کلاس های معمولی و جنریک",
         "amendment": "no",
@@ -1109,6 +1257,7 @@
         "youtube": "no"
     },
     {
+        "id" : "comparator-interface",
         "name": "149",
         "title": "اینترفیس comparator",
         "amendment": "no",
@@ -1117,6 +1266,7 @@
         "source" : "https://www.geeksforgeeks.org/comparator-interface-java/amp/"
     },
     {
+        "id" : "comparator-interface-code",
         "name": "150",
         "title": "اینترفیس comparator (عملی)",
         "amendment": "no",
@@ -1124,6 +1274,7 @@
         "youtube": "no"
     },
     {
+        "id" : "sortedMap-interface",
         "name": "151",
         "title": "اینترفیس SortedMap",
         "amendment": "no",
@@ -1132,6 +1283,7 @@
         "source" : "https://www.journaldev.com/16209/java-sortedmap-sorted-map-java"
     },
     {
+        "id" : "sortedMap-interface-code",
         "name": "152",
         "title": "اینترفیس SortedMap (عملی)",
         "amendment": "no",
@@ -1139,6 +1291,7 @@
         "youtube": "no"
     },
     {
+        "id" : "floor-ceiling",
         "name": "153",
         "title": "مفهوم توابع جزء صحیح و سقف",
         "amendment": "no",
@@ -1147,6 +1300,7 @@
         "source" : "https://math24.net/floor-ceiling-functions.html"
     },
     {
+        "id" : "navigableMap-interface",
         "name": "154",
         "title": " اینترفیس NavigableMap",
         "amendment": "no",
@@ -1155,6 +1309,7 @@
         "source" : "https://www.codejava.net/java-core/collections/java-navigablemap-and-treemap-tutorial-and-examples"
     },
     {
+        "id" : "navigableMap-interface-code",
         "name": "155",
         "title": "اینترفیس NavigableMap (عملی)",
         "amendment": "no",
@@ -1162,6 +1317,7 @@
         "youtube": "no"
     },
     {
+        "id" : "set-ds",
         "name": "156",
         "title": "آشنایی با ساختمان داده Set",
         "amendment": "no",
@@ -1170,6 +1326,7 @@
         "source" : "https://www.programiz.com/java-programming/set"
     },
     {
+        "id" : "iterator-interface",
         "name": "157",
         "title": "آشنایی با Iterator",
         "amendment": "no",
@@ -1178,6 +1335,7 @@
         "source" : "https://stackabuse.com/java-iterable-interface-iterator-listiterator-and-spliterator/"
     },
     {
+        "id" : "iterator-interface-code",
         "name": "158",
         "title": "آشنایی با Iterator (عملی)",
         "amendment": "no",
@@ -1185,6 +1343,7 @@
         "youtube": "no"
     },
     {
+        "id" : "list-iterator-interface",
         "name": "159",
         "title": "آشنایی با list Iterator",
         "amendment": "no",
@@ -1193,6 +1352,7 @@
         "source" : "https://stackabuse.com/java-iterable-interface-iterator-listiterator-and-spliterator/"
     },
     {
+        "id" : "list-iterator-interface-code",
         "name": "160",
         "title": " آشنایی با list Iterator (عملی)",
         "amendment": "no",
@@ -1200,6 +1360,7 @@
         "youtube": "no"
     },
     {
+        "id" : "database-1",
         "name": "161",
         "title": "مفهوم پایگاه داده",
         "amendment": "no",
@@ -1208,6 +1369,7 @@
         "source" : "https://www.codecademy.com/article/what-is-rdbms-sql"
     },
     {
+        "id" : "database-2",
         "name": "162",
         "title": "مفهوم پایگاه داده. ق دوم",
         "amendment": "no",
@@ -1216,6 +1378,7 @@
         "source" : "https://www.codecademy.com/article/what-is-rdbms-sql"
     },
     {
+        "id" : "SQLite-database",
         "name": "163",
         "title": " آشنایی با SQLite",
         "amendment": "no",
@@ -1224,6 +1387,7 @@
         "source" : "https://www.sqlitetutorial.net/what-is-sqlite/"
     },
     {
+        "id" : "SQLite-database-driver",
         "name": "164",
         "title": "اضافه کردن درایور SQLite",
         "amendment": "no",
@@ -1232,6 +1396,7 @@
         "source" : "https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc"
     },
     {
+        "id" : "SQLite-connection",
         "name": "165",
         "title": "ایجاد اتصال به SQLite",
         "amendment": "no",
@@ -1239,6 +1404,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-data-types",
         "name": "166",
         "title": " انواع داده ها در SQLite",
         "amendment": "no",
@@ -1247,6 +1413,7 @@
         "source" : "https://www.sqlitetutorial.net/sqlite-data-types/"
     },
     {
+        "id" : "SQLite-table",
         "name": "167",
         "title": "ساخت جدول در SQLite",
         "amendment": "no",
@@ -1255,6 +1422,7 @@
         "source" : "https://www.sqlitetutorial.net/sqlite-create-table/"
     },
     {
+        "id" : "SQLite-table-code",
         "name": "168",
         "title": "ساخت جدول در SQLite (عملی)",
         "amendment": "no",
@@ -1262,6 +1430,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-insert",
         "name": "169",
         "title": "اضافه کردن داده در SQLite ",
         "amendment": "no",
@@ -1270,6 +1439,7 @@
         "source" : "https://www.sqlitetutorial.net/sqlite-insert/"
     },
     {
+        "id" : "SQLite-insert-code",
         "name": "170",
         "title": "اضافه کردن داده در SQLite (عملی)",
         "amendment": "no",
@@ -1277,6 +1447,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-select",
         "name": "171",
         "title": "خواندن داده از SQLite",
         "amendment": "no",
@@ -1285,6 +1456,7 @@
         "source" : "https://www.sqlitetutorial.net/sqlite-select/"
     },
     {
+        "id" : "SQLite-select-code",
         "name": "172",
         "title": "خواندن داده از SQLite (عملی)",
         "amendment": "no",
@@ -1292,6 +1464,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-select-options",
         "name": "173",
         "title": "حالات مختلف select ح اول",
         "amendment": "no",
@@ -1299,6 +1472,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-select-limit-offset",
         "name": "174",
         "title": "select داده ها با limit و offset",
         "amendment": "no",
@@ -1306,6 +1480,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-key",
         "name": "175",
         "title": "آشنایی کلی با مفهوم کلید در SQLite",
         "amendment": "no",
@@ -1313,6 +1488,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-key-select",
         "name": "176",
         "title": "خواندن رکورد با کلید در SQLite",
         "amendment": "no",
@@ -1320,6 +1496,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-key-check",
         "name": "177",
         "title": "برسی وجود کلید تکراری در insert",
         "amendment": "no",
@@ -1327,6 +1504,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-delete",
         "name": "178",
         "title": "حذف داده از SQLite",
         "amendment": "no",
@@ -1334,6 +1512,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-update",
         "name": "179",
         "title": "ویرایش رکورد در SQLite",
         "amendment": "no",
@@ -1341,6 +1520,7 @@
         "youtube": "no"
     },
     {
+        "id" : "relationships-consept",
         "name": "180",
         "title": "مفهوم رابطه در RDBMS",
         "amendment": "no",
@@ -1349,6 +1529,7 @@
         "source" : "https://afteracademy.com/blog/what-are-the-different-types-of-relationships-in-dbms"
     },
     {
+        "id" : "SQLite-foreign-key",
         "name": "181",
         "title": "مفهوم کلید خارجی یا foreign key",
         "amendment": "no",
@@ -1357,6 +1538,7 @@
         "source" : "https://www.geeksforgeeks.org/difference-between-primary-key-and-foreign-key/"
     },
     {
+        "id" : "project-database",
         "name": "182",
         "title": "ایجاد ساختار db پروژه مدیریت مدرسه",
         "amendment": "no",
@@ -1364,6 +1546,7 @@
         "youtube": "no"
     },
     {
+        "id" : "project-data-model",
         "name": "183",
         "title": "ساخت کلاس های نگهدارنده داده",
         "amendment": "no",
@@ -1371,6 +1554,7 @@
         "youtube": "no"
     },
     {
+        "id" : "project-data-select",
         "name": "184",
         "title": "توابع select داده ها ",
         "amendment": "no",
@@ -1378,6 +1562,7 @@
         "youtube": "no"
     },
     {
+        "id" : "project-data-insert",
         "name": "185",
         "title": "توابع insert داده ها",
         "amendment": "no",
@@ -1385,6 +1570,7 @@
         "youtube": "no"
     },
     {
+        "id" : "project-data-delete",
         "name": "186",
         "title": " توابع remove داده ها ",
         "amendment": "no",
@@ -1392,6 +1578,7 @@
         "youtube": "no"
     },
     {
+        "id" : "project-data-update",
         "name": "187",
         "title": " توابع update داده ها ",
         "amendment": "no",
@@ -1399,6 +1586,7 @@
         "youtube": "no"
     },
     {
+        "id" : "SQLite-inner-join",
         "name": "188",
         "title": "آشنایی با Inner join",
         "amendment": "no",
@@ -1407,6 +1595,7 @@
         "source" : "https://www.techonthenet.com/sqlite/joins.php"
     },
     {
+        "id" : "SQLite-left-outer-join",
         "name": "189",
         "title": "آشنایی با left outer join ",
         "amendment": "no",
@@ -1415,6 +1604,7 @@
         "source" : "https://www.techonthenet.com/sqlite/joins.php"
     },
     {
+        "id" : "SQLite-cross-join",
         "name": "190",
         "title": " آشنایی با cross join ",
         "amendment": "no",
@@ -1423,6 +1613,7 @@
         "source" : "https://www.techonthenet.com/sqlite/joins.php"
     },
     {
+        "id" : "project-data-join",
         "name": "191",
         "title": " دستور join روی چندین جدول",
         "amendment": "no",
@@ -1430,6 +1621,7 @@
         "youtube": "no"
     },
     {
+        "id" : "project-data-join-code",
         "name": "192",
         "title": "دستور join روی چندین جدول (عملی)",
         "amendment": "no",
@@ -1437,6 +1629,7 @@
         "youtube": "no"
     },
     {
+        "id" : "os-process-management",
         "name": "193",
         "title": "مفهوم مدیریت فرآیند در سیستم عامل ",
         "amendment": "no",
@@ -1445,6 +1638,7 @@
         "source" : "https://www.javatpoint.com/os-process-management-introduction"
     },
     {
+        "id" : "thread-life-cycle",
         "name": "194",
         "title": "مفهوم thread و چرخه عمر نخ",
         "amendment": "no",
@@ -1453,6 +1647,7 @@
         "source" : "https://www.javatpoint.com/life-cycle-of-a-thread"
     },
     {
+        "id" : "create-thread",
         "name": "195",
         "title": "ساخت thread در جاوا",
         "amendment": "no",
@@ -1461,6 +1656,7 @@
         "source" : "https://www.javatpoint.com/how-to-create-a-thread-in-java"
     },
     {
+        "id" : "create-thread-code",
         "name": "196",
         "title": "ساخت thread در جاوا (عملی)",
         "amendment": "no",
@@ -1468,6 +1664,7 @@
         "youtube": "no"
     },
     {
+        "id" : "thread-scheduler",
         "name": "197",
         "title": "مفهوم thread scheduler",
         "amendment": "no",
@@ -1476,6 +1673,7 @@
         "source" : "https://www.javatpoint.com/thread-scheduler-in-java"
     },
     {
+        "id" : "thread-priority",
         "name": "198",
         "title": " تغییر اولویت thread",
         "amendment": "no",
@@ -1484,6 +1682,7 @@
         "source" : "https://www.javatpoint.com/priority-of-a-thread-in-java"
     },
     {
+        "id" : "concurrent-collections",
         "name": "199",
         "title": "مفهوم thread safe در collections",
         "amendment": "no",
@@ -1492,6 +1691,7 @@
         "source" : "https://codingcompiler.com/concurrent-collections-in-java/"
     },
     {
+        "id" : "thread-sleep",
         "name": "200",
         "title": " تابع sleep در thread",
         "amendment": "no",
@@ -1503,6 +1703,7 @@
  ],
  "api":[
     {
+        "id": "why-php",
         "name": "1",
         "title": "آشنایی با PHP",
         "amendment": "no",
@@ -1510,6 +1711,7 @@
         "youtube": "no"
     },
     {
+        "id": "install-wamp-server",
         "name": "2",
         "title": "نصب wamp Server",
         "amendment": "no",
@@ -1517,6 +1719,7 @@
         "youtube": "no"
     },
     {
+        "id": "helloWorld-php",
         "name": "3",
         "title": "HelloWorld در vs code",
         "amendment": "no",
@@ -1524,6 +1727,7 @@
         "youtube": "no"
     },
     {
+        "id": "variable-rules",
         "name": "4",
         "title": "قواعد متغیر ها ",
         "amendment": "no",
@@ -1531,6 +1735,7 @@
         "youtube": "no"
     },
     {
+        "id": "variable-rules-code",
         "name": "5",
         "title": "تعریف متغیر ها (عملی)",
         "amendment": "no",
@@ -1538,6 +1743,7 @@
         "youtube": "no"
     },
     {
+        "id": "variable-scoping",
         "name": "6",
         "title": " انواع متغیر از نظر محدوده",
         "amendment": "no",
@@ -1545,6 +1751,7 @@
         "youtube": "no"
     },
     {
+        "id": "variable-scoping-code",
         "name": "7",
         "title": " انواع متغیر (عملی)",
         "amendment": "no",
@@ -1552,6 +1759,7 @@
         "youtube": "no"
     },
     {
+        "id": "constants",
         "name": "8",
         "title": "ثابت ها در PHP",
         "amendment": "no",
@@ -1559,6 +1767,7 @@
         "youtube": "no"
     },
     {
+        "id": "constants-code",
         "name": "9",
         "title": "ثابت ها در PHP (عملی)",
         "amendment": "no",
@@ -1566,12 +1775,15 @@
         "youtube": "no"
     },
     {
+        "id": "conditional-expression",
         "name": "10",
         "title": "عبارت های شرطی",
         "amendment": "no",
         "aparat": "EjDrY",
         "youtube": "no"
-    },{
+    },
+    {
+        "id": "switch",
         "name": "11",
         "title": "دستور switch",
         "amendment": "no",
@@ -1579,6 +1791,7 @@
         "youtube": "no"
     },
     {
+        "id": "for-loop",
         "name": "12",
         "title": "حلقه for",
         "amendment": "no",
@@ -1586,6 +1799,7 @@
         "youtube": "no"
     },
     {
+        "id": "for-each-loop",
         "name": "13",
         "title": " حلقه for each",
         "amendment": "no",
@@ -1593,6 +1807,7 @@
         "youtube": "no"
     },
     {
+        "id": "while-loop",
         "name": "14",
         "title": "حلقه while",
         "amendment": "no",
@@ -1600,6 +1815,7 @@
         "youtube": "no"
     },
     {
+        "id": "do-while-loop",
         "name": "15",
         "title": " حلقه do while",
         "amendment": "no",
@@ -1607,6 +1823,7 @@
         "youtube": "no"
     },
     {
+        "id": "functions",
         "name": "16",
         "title": "توابع در PHP",
         "amendment": "no",
@@ -1614,6 +1831,7 @@
         "youtube": "no"
     },
     {
+        "id": "call-by-value",
         "name": "17",
         "title": "تابع call by value",
         "amendment": "no",
@@ -1621,6 +1839,7 @@
         "youtube": "no"
     },
     {
+        "id": "call-by-reference",
         "name": "18",
         "title": "تابع call by reference",
         "amendment": "no",
@@ -1628,6 +1847,7 @@
         "youtube": "no"
     },
     {
+        "id": "default-argument",
         "name": "19",
         "title": "تابع default argument",
         "amendment": "no",
@@ -1635,12 +1855,15 @@
         "youtube": "no"
     },
     {
+        "id": "variable-length-arguments",
         "name": "20",
         "title": " تابع با تعداد نامشخص پارامتر",
         "amendment": "no",
         "aparat": "J20A1",
         "youtube": "no"
-    },{
+    },
+    {
+        "id": "array",
         "name": "21",
         "title": "انواع آرایه در PHP",
         "amendment": "no",
@@ -1648,6 +1871,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-object-class",
         "name": "22",
         "title": "مفهوم class و object",
         "amendment": "no",
@@ -1655,6 +1879,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-constructor",
         "name": "23",
         "title": "constructor",
         "amendment": "no",
@@ -1662,6 +1887,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-destructor",
         "name": "24",
         "title": "destructor",
         "amendment": "no",
@@ -1669,6 +1895,7 @@
         "youtube": "no"
     },
     {
+        "id": "access-modifiers",
         "name": "25",
         "title": "access modifiers",
         "amendment": "no",
@@ -1676,6 +1903,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-inheritance",
         "name": "26",
         "title": "ارث بری در PHP",
         "amendment": "no",
@@ -1683,6 +1911,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-inheritance-protected",
         "name": "27",
         "title": "رفتار protected در ارث بری",
         "amendment": "no",
@@ -1690,6 +1919,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-overriding",
         "name": "28",
         "title": " overriding در ارث بری",
         "amendment": "no",
@@ -1697,6 +1927,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-final",
         "name": "29",
         "title": "کلمه کلیدی final در ارث بری",
         "amendment": "no",
@@ -1704,12 +1935,15 @@
         "youtube": "no"
     },
     {
+        "id": "oop-abstract-class",
         "name": "30",
         "title": "کلاس های انتزاعی",
         "amendment": "no",
         "aparat": "OGr1E",
         "youtube": "no"
-    },{
+    },
+    {
+        "id": "oop-interface",
         "name": "31",
         "title": "interface ها در PHP",
         "amendment": "no",
@@ -1717,6 +1951,7 @@
         "youtube": "no"
     },
     {
+        "id": "oop-static",
         "name": "32",
         "title": "کلمه کلیدی static",
         "amendment": "no",
@@ -1724,6 +1959,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL",
         "name": "33",
         "title": "آشنایی با MySQL",
         "amendment": "no",
@@ -1731,6 +1967,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-connection",
         "name": "34",
         "title": " اتصال به MySQL",
         "amendment": "no",
@@ -1738,6 +1975,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-connection-code",
         "name": "35",
         "title": "اتصال به MySQL (عملی)",
         "amendment": "no",
@@ -1745,6 +1983,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-table-user",
         "name": "36",
         "title": "ساخت جدول اعضا",
         "amendment": "no",
@@ -1752,6 +1991,7 @@
         "youtube": "no"
     },
     {
+        "id": "user-data-model",
         "name": "37",
         "title": " کلاس نگهدارنده اعضا",
         "amendment": "no",
@@ -1759,6 +1999,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-select-email",
         "name": "38",
         "title": "یافتن عضو با ایمیل",
         "amendment": "no",
@@ -1766,6 +2007,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-insert_user",
         "name": "39",
         "title": " اضافه کردن عضو ",
         "amendment": "no",
@@ -1773,12 +2015,15 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-select-user-id",
         "name": "40",
         "title": "یافتن عضو با id",
         "amendment": "no",
         "aparat": "jn7es",
         "youtube": "no"
-    },{
+    },
+    {
+        "id": "MySQL-update-user",
         "name": "41",
         "title": "ویرایش اطلاعات عضو",
         "amendment": "no",
@@ -1786,6 +2031,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-table-twit",
         "name": "42",
         "title": "ایجاد جدول توییت",
         "amendment": "no",
@@ -1793,6 +2039,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-insert-twit",
         "name": "43",
         "title": "اضافه کردن توییت",
         "amendment": "no",
@@ -1800,6 +2047,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-select-twit_id",
         "name": "44",
         "title": " پیدا کردن توییت با id",
         "amendment": "no",
@@ -1807,6 +2055,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-insert-all-twits",
         "name": "45",
         "title": "خواندن همه توییت ها",
         "amendment": "no",
@@ -1814,6 +2063,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-insert-all-paging",
         "name": "46",
         "title": " خواندن همه با صفحه بندی",
         "amendment": "no",
@@ -1821,6 +2071,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-update-twit",
         "name": "47",
         "title": "ویرایش توییت",
         "amendment": "no",
@@ -1828,6 +2079,7 @@
         "youtube": "no"
     },
     {
+        "id": "MySQL-delete-twit",
         "name": "48",
         "title": " حذف توییت",
         "amendment": "no",
@@ -1835,6 +2087,7 @@
         "youtube": "no"
     },
     {
+        "id": "RESTful-API",
         "name": "49",
         "title": " آشنایی کلی با RESTful API",
         "amendment": "no",
@@ -1842,12 +2095,15 @@
         "youtube": "no"
     },
     {
+        "id": "JSON",
         "name": "50",
         "title": "آشنایی با JSON",
         "amendment": "no",
         "aparat": "yTdSi",
         "youtube": "no"
-    },{
+    },
+    {
+        "id": "signup-user",
         "name": "51",
         "title": " ثبت نام کاربر",
         "amendment": "no",
@@ -1855,6 +2111,7 @@
         "youtube": "no"
     },
     {
+        "id": "signup-user-test-postman",
         "name": "52",
         "title": "تست ثبت نام با postman",
         "amendment": "no",
@@ -1862,6 +2119,7 @@
         "youtube": "no"
     },
     {
+        "id": "htaccess",
         "name": "53",
         "title": "کوتاهی لینک با htaccess",
         "amendment": "no",
@@ -1869,6 +2127,7 @@
         "youtube": "no"
     },
     {
+        "id": "JWT",
         "name": "54",
         "title": "مفهوم و کاربرد JWT",
         "amendment": "no",
@@ -1876,6 +2135,7 @@
         "youtube": "no"
     },
     {
+        "id": "signin-user",
         "name": "55",
         "title": "لاگین کاربر و ارسال توکن",
         "amendment": "no",
@@ -1883,6 +2143,7 @@
         "youtube": "no"
     },
     {
+        "id": "check-token",
         "name": "56",
         "title": "برسی وجود و صحت توکن",
         "amendment": "no",
@@ -1890,6 +2151,7 @@
         "youtube": "no"
     },
     {
+        "id": "update-user-change-token",
         "name": "57",
         "title": "ویرایش کاربر و تغییر توکن",
         "amendment": "no",
@@ -1897,6 +2159,7 @@
         "youtube": "no"
     },
     {
+        "id": "insert-twit-api",
         "name": "58",
         "title": "اضافه کردن توییت",
         "amendment": "no",
@@ -1904,6 +2167,7 @@
         "youtube": "no"
     },
     {
+        "id": "update-twit-api",
         "name": "59",
         "title": "ویرایش توییت",
         "amendment": "no",
@@ -1911,12 +2175,15 @@
         "youtube": "no"
     },
     {
+        "id": "delete-twit-api",
         "name": "60",
         "title": " حذف توییت",
         "amendment": "no",
         "aparat": "zeO4m",
         "youtube": "no"
-    },{
+    },
+    {
+        "id": "get-twit-api",
         "name": "61",
         "title": " خواندن توییت با GET",
         "amendment": "no",
@@ -1924,6 +2191,7 @@
         "youtube": "no"
     },
     {
+        "id": "get-all-twits-api",
         "name": "62",
         "title": "خواندن همه با صفحه بندی",
         "amendment": "no",
@@ -1933,6 +2201,7 @@
  ],
  "android":[
     {
+        "id": "create-project",
         "name": "1",
         "title": " ایجاد پروژه در اندروید استودیو ",
         "amendment": "no",
@@ -1940,6 +2209,7 @@
         "youtube": "no"
     },
     {
+        "id": "create-actvity",
         "name": "2",
         "title": "ایجاد activity",
         "amendment": "no",
@@ -1947,6 +2217,7 @@
         "youtube": "no"
     },
     {
+        "id": "text-view",
         "name": "3",
         "title": "آشنایی کلی با text view",
         "amendment": "no",
@@ -1954,6 +2225,7 @@
         "youtube": "no"
     },
     {
+        "id": "strings-file",
         "name": "4",
         "title": "آشنایی با فایل strings",
         "amendment": "no",
@@ -1961,6 +2233,7 @@
         "youtube": "no"
     },
     {
+        "id": "pixel-density",
         "name": "5",
         "title": "مفهوم تراکم پیکسلی صفحه نمایش",
         "amendment": "no",
@@ -1969,6 +2242,7 @@
         "source" : "https://mybuyingguide.com/what-is-pixel-density"
     },
     {
+        "id": "px-dp-sp",
         "name": "6",
         "title": "انواع واحد های اندازه گیری",
         "amendment": "no",
@@ -1977,6 +2251,7 @@
         "source" : "https://flutter-developer.medium.com/android-what-is-the-difference-between-px-dip-dp-and-sp-f0ba0164d208"
     },
     {
+        "id": "px-dp-sp-code",
         "name": "7",
         "title": "انواع واحد های اندازه گیری (عملی)",
         "amendment": "no",
@@ -1984,6 +2259,7 @@
         "youtube": "no"
     },
     {
+        "id": "text-properties",
         "name": "8",
         "title": "خصوصیات متن",
         "amendment": "no",
@@ -1991,6 +2267,7 @@
         "youtube": "no"
     },
     {
+        "id": "margin-padding",
         "name": "9",
         "title": "مفهوم margin و padding",
         "amendment": "no",
@@ -1999,6 +2276,7 @@
         "source" : "https://www.studytonight.com/android/margin-vs-padding"
     },
     {
+        "id": "margin-padding-code",
         "name": "10",
         "title": "مفهوم margin و padding (عملی)",
         "amendment": "no",
@@ -2006,6 +2284,7 @@
         "youtube": "no"
     },
     {
+        "id": "text-view-code",
         "name": "11",
         "title": "کار با text view در جاوا",
         "amendment": "no",
@@ -2013,6 +2292,7 @@
         "youtube": "no"
     },
     {
+        "id": "click-event",
         "name": "12",
         "title": "آشنایی با رویداد کلیک",
         "amendment": "no",
@@ -2020,6 +2300,7 @@
         "youtube": "no"
     },
     {
+        "id": "edit-text",
         "name": "13",
         "title": "آشنایی با edit text",
         "amendment": "no",
@@ -2027,6 +2308,7 @@
         "youtube": "no"
     },
     {
+        "id": "input-error",
         "name": "14",
         "title": "دریافت ورودی و نمایش خطا",
         "amendment": "no",
@@ -2034,6 +2316,7 @@
         "youtube": "no"
     },
     {
+        "id": "linear-layout",
         "name": "15",
         "title": "آشنایی با linear layout",
         "amendment": "no",
@@ -2042,6 +2325,7 @@
         "source" : "https://www.studytonight.com/android/linear-layout-in-android"
     },
     {
+        "id": "linear-layout-code",
         "name": "16",
         "title": "کار با linear layout",
         "amendment": "no",
@@ -2049,6 +2333,7 @@
         "youtube": "no"
     },
     {
+        "id": "linear-layout-Weight",
         "name": "17",
         "title": "ویژگی وزن linear layout",
         "amendment": "no",
@@ -2056,6 +2341,7 @@
         "youtube": "no"
     },
     {
+        "id": "relative-Layout-first",
         "name": "18",
         "title": "آشنایی با Relative Layout قسمت اول",
         "amendment": "no",
@@ -2064,6 +2350,7 @@
         "source" : "https://www.studytonight.com/android/relative-layout-in-android"
     },
     {
+        "id": "relative-Layout-second",
         "name": "19",
         "title": " آشنایی با Relative Layout قسمت دوم",
         "amendment": "no",
@@ -2072,6 +2359,7 @@
         "source" : "https://www.studytonight.com/android/relative-layout-in-android"
     },
     {
+        "id": "relativeLayout-code",
         "name": "20",
         "title": "کار با RelativeLayout",
         "amendment": "no",
@@ -2079,6 +2367,7 @@
         "youtube": "no"
     },
     {
+        "id": "scrollView",
         "name": "21",
         "title": "آشنای با scrollView",
         "amendment": "no",
@@ -2087,6 +2376,7 @@
         "source" : "https://www.studytonight.com/post/how-to-add-a-scrollview-in-android-app"
     },
     {
+        "id": "scrollView-code",
         "name": "22",
         "title": "کار با scrollView",
         "amendment": "no",
@@ -2094,6 +2384,7 @@
         "youtube": "no"
     },
     {
+        "id": "button",
         "name": "23",
         "title": " آشنایی با button",
         "amendment": "no",
@@ -2102,6 +2393,7 @@
         "source" : "https://www.studytonight.com/android/android-button-view"
     },
     {
+        "id": "image-view-base",
         "name": "24",
         "title": "آشنایی مقدماتی با image view",
         "amendment": "no",
@@ -2110,6 +2402,7 @@
         "source" : "https://abhiandroid.com/ui/imageview"
     },
     {
+        "id": "image-view-scale-type",
         "name": "25",
         "title": "ویژگی scale type در image view",
         "amendment": "no",
@@ -2118,6 +2411,7 @@
         "source" : "https://blog.mindorks.com/imageview-scaletype-in-android"
     },
     {
+        "id": "image-view-icon",
         "name": "26",
         "title": "کار با image view به عنوان قاب icon",
         "amendment": "no",
@@ -2125,6 +2419,7 @@
         "youtube": "no"
     },
     {
+        "id": "vector-vs-raster",
         "name": "27",
         "title": "Vector vs Raster",
         "amendment": "no",
@@ -2133,6 +2428,7 @@
         "source" : "https://lasergods.com/vector-vs-raster"
     },
     {
+        "id": "vector-code",
         "name": "28",
         "title": "کار با vector",
         "amendment": "no",
@@ -2140,6 +2436,7 @@
         "youtube": "no"
     },
     {
+        "id": "9-patch",
         "name": "29",
         "title": "آشنایی با  9-patch",
         "amendment": "no",
@@ -2148,6 +2445,7 @@
         "source" : "https://medium.com/flobiz-blog/create-resizable-bitmaps-9-patch-files-48c774db4526"
     },
     {
+        "id": "9-patch-code",
         "name": "30",
         "title": "کار با 9-patch",
         "amendment": "no",
@@ -2155,6 +2453,7 @@
         "youtube": "no"
     },
     {
+        "id": "progressBar",
         "name": "31",
         "title": " آشنایی با ProgressBar",
         "amendment": "no",
@@ -2163,6 +2462,7 @@
         "source" : "https://o7planning.org/12745/android-progressbar"
     },
     {
+        "id": "indeterminate-progressbar",
         "name": "32",
         "title": "کار با indeterminate progress bar",
         "amendment": "no",
@@ -2170,6 +2470,7 @@
         "youtube": "no"
     },
     {
+        "id": "determinate-progressbar",
         "name": "33",
         "title": "کار با determinate progress bar",
         "amendment": "no",
@@ -2177,6 +2478,7 @@
         "youtube": "no"
     },
     {
+        "id": "checkbox",
         "name": "34",
         "title": " آشنایی با checkbox",
         "amendment": "no",
@@ -2185,6 +2487,7 @@
         "source" : "https://abhiandroid.com/ui/checkbox"
     },
     {
+        "id": "radioButton",
         "name": "35",
         "title": "آشنایی با RadioButton",
         "amendment": "no",
@@ -2193,6 +2496,7 @@
         "source" : "https://abhiandroid.com/ui/radiobutton"
     },
     {
+        "id": "checkbox-radioButton-code",
         "name": "36",
         "title": "کار با checkbox و RadioButton",
         "amendment": "no",
@@ -2200,6 +2504,7 @@
         "youtube": "no"
     },
     {
+        "id": "activity-lifecycle",
         "name": "37",
         "title": "آشنایی با چرخه عمر اکتیویتی",
         "amendment": "no",
@@ -2208,6 +2513,7 @@
         "source" : "https://www.tutorialspoint.com/android/android_acitivities.htm"
     },
     {
+        "id": "signin-activity-xml",
         "name": "38",
         "title": "طراحی صفحه لاگین پروژه",
         "amendment": "no",
@@ -2215,6 +2521,7 @@
         "youtube": "no"
     },
     {
+        "id": "improve-signin-activity-xml",
         "name": "39",
         "title": "بهبود ظاهر صفحه لاگین پروژه",
         "amendment": "no",
@@ -2222,6 +2529,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-urlManager-class",
         "name": "40",
         "title": "کلاس UrlManager پروژه",
         "amendment": "no",
@@ -2229,6 +2537,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-jsonManager-class",
         "name": "41",
         "title": "کلاس JsonManager پروژه",
         "amendment": "no",
@@ -2236,6 +2545,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-requestable-interface",
         "name": "42",
         "title": "اینترفیس Requestable پروژه",
         "amendment": "no",
@@ -2243,6 +2553,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-http-request-1",
         "name": "43",
         "title": "کلاس http request پروژه ق اول",
         "amendment": "no",
@@ -2250,6 +2561,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-http-request-2",
         "name": "44",
         "title": "کلاس http request پروژه ق دوم",
         "amendment": "no",
@@ -2258,6 +2570,7 @@
         "source" : "no"
     },
     {
+        "id": "project-http-request-3",
         "name": "45",
         "title": " کلاس http request پروژه ق سوم ",
         "amendment": "no",
@@ -2265,6 +2578,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-http-request-4",
         "name": "46",
         "title": "کلاس http request پروژه ق چهارم ",
         "amendment": "no",
@@ -2272,6 +2586,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-http-request-5",
         "name": "47",
         "title": "کلاس http request پروژه ق پنجم",
         "amendment": "no",
@@ -2279,6 +2594,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-https-request-class",
         "name": "48",
         "title": "کلاس https request پروژه ",
         "amendment": "no",
@@ -2286,6 +2602,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-class-1",
         "name": "49",
         "title": "کلاس مربوط به لاگین کاربر ق اول",
         "amendment": "no",
@@ -2293,6 +2610,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-class-2",
         "name": "50",
         "title": "کلاس مربوط به لاگین کاربر ق دوم",
         "amendment": "no",
@@ -2300,6 +2618,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-class-3",
         "name": "51",
         "title": "کلاس مربوط به لاگین کاربر ق سوم",
         "amendment": "no",
@@ -2307,6 +2626,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-activity-1",
         "name": "52",
         "title": "اکتیویتی لاگین پروژه ق اول ",
         "amendment": "no",
@@ -2314,6 +2634,7 @@
         "youtube": "no"
     },
     {
+        "id": "check-connection",
         "name": "53",
         "title": "برسی وضعیت اتصال به شبکه ",
         "amendment": "no",
@@ -2321,6 +2642,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-activity-2",
         "name": "54",
         "title": "اکتیویتی لاگین پروژه ق دوم ",
         "amendment": "no",
@@ -2328,6 +2650,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-activity-3",
         "name": "55",
         "title": "اکتیویتی لاگین پروژه ق سوم",
         "amendment": "no",
@@ -2335,6 +2658,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-activity-4",
         "name": "56",
         "title": "اکتیویتی لاگین پروژه ق چهارم ",
         "amendment": "no",
@@ -2342,6 +2666,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-signin-activity-test",
         "name": "57",
         "title": "تست اولیه اکتیویتی لاگین پروژه ",
         "amendment": "no",
@@ -2349,6 +2674,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-SQLite-helper-class",
         "name": "58",
         "title": "کلاس SQLite Helper پروژه",
         "amendment": "no",
@@ -2356,6 +2682,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-SQLite-handler-class",
         "name": "59",
         "title": "کلاس SQLite Handler پروژه ق اول ",
         "amendment": "no",
@@ -2363,6 +2690,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-SQLite-insert-setting",
         "name": "60",
         "title": "اضافه کردن یک رکورد به جدول تنظیمات ",
         "amendment": "no",
@@ -2370,6 +2698,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-SQLite-select-setting",
         "name": "61",
         "title": "خواندن یک رکورد از جدول تنظیمات ",
         "amendment": "no",
@@ -2377,6 +2706,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-SQLite-select-all-settings",
         "name": "62",
         "title": "خواندن همه رکورد ها از جدول تنظیمات",
         "amendment": "no",
@@ -2384,6 +2714,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-SQLite-update-setting",
         "name": "63",
         "title": "ویرایش کردن رکورد در جدول تنظیمات",
         "amendment": "no",
@@ -2391,6 +2722,7 @@
         "youtube": "no"
     },
     {
+        "id": "project-SQLite-delete-setting",
         "name": "64",
         "title": "حذف کردن رکورد از جدول تنظیمات",
         "amendment": "no",

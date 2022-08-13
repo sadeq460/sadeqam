@@ -1,7 +1,42 @@
 import data from './data/data.json' assert {type: 'json'};
 
-var number = 0;
-var course = "java";
+
+var params = window.location.pathname.split('/').slice(1);
+var inputCourse = params[0]; // change to 2 for local
+var inputId = params[1]; // change to 3 for local
+
+var number;
+var course;
+
+
+if(typeof inputCourse === 'undefined' || inputCourse === ''){
+    course = "java";
+} 
+else{
+     course = inputCourse;
+}
+document.getElementById("course_selector").value = course;
+
+if(typeof inputId === 'undefined' || inputId === '')number = 0;
+else {
+    if(course == "java"){
+        const index = data.java.findIndex(object => {
+            return object.id === inputId;
+        });
+        number = (data.java[index].name)-1;
+    }else if(course == "api"){
+        const index = data.api.findIndex(object => {
+            return object.id === inputId;
+        });
+        number = (data.api[index].name)-1;
+    }else if(course == "android"){
+        const index = data.android.findIndex(object => {
+            return object.id === inputId;
+        });
+        number = (data.android[index].name)-1;
+    }
+}
+
 showinfo(number);
 
 function next(){
@@ -44,16 +79,19 @@ function courseSelectorChanged(){
 function showinfo(number){
 
     if(course == "java"){
+        var id = data.java[number].id;
         var name = data.java[number].name;
         var video = getAparatVideo(number);
         var title = "جلسه " + data.java[number].name + " : " + data.java[number].title;
         if (data.java[number].amendment != "no") title = title + " (" + data.java[number].amendment + ")"
     }else if(course == "api"){
+        var id = data.api[number].id;
         var name = data.api[number].name;
         var video = getAparatVideo(number);
         var title = "جلسه " + data.api[number].name + " : " + data.api[number].title;
         if (data.api[number].amendment != "no") title = title + " (" + data.api[number].amendment + ")"
     }else if(course == "android"){
+        var id = data.android[number].id;
         var name = data.android[number].name;
         var video = getAparatVideo(number);
         var title = "جلسه " + data.android[number].name + " : " + data.android[number].title;
@@ -62,6 +100,8 @@ function showinfo(number){
     document.getElementById("meeting_number").value  = name;
     document.getElementById("center").innerHTML =  video;
     document.getElementById("name_text").innerHTML = title; 
+
+    window.history.replaceState('', '', 'http://localhost/sadeqam/sadeqam/' + course + "/" + id);
 }
 
 function getAparatVideo(number){
