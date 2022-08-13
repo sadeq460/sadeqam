@@ -101,7 +101,8 @@ function showinfo(number){
     document.getElementById("center").innerHTML =  video;
     document.getElementById("name_text").innerHTML = title; 
 
-    window.history.replaceState('', '', 'http://localhost/sadeqam/sadeqam/' + course + "/" + id);
+    //for lacal http://localhost/sadeqam/sadeqam/
+    window.history.replaceState('', '', 'https://sadeqam.ir/' + course + "/" + id);
 }
 
 function getAparatVideo(number){
