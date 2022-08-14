@@ -1,35 +1,12 @@
-<!DOCTYPE html>
-<html lang="fa">
-    <head>
-        <title>sadeqam</title>
-        <meta charset="utf-8">
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-369BQQD75Q"></script>
-         <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-369BQQD75Q');
-         </script>
-        <meta name="google-site-verification" content="bv64-fW6FbSh8Zc2FfO6NAdYAZPDgX5rHDy_zf3pPYI" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-        <link rel="stylesheet" href="style.css">
-        <script>
-            // if it's on index.html
-            if (window.sessionStorage.path) {
-                let path = window.sessionStorage.path; // gets the path saved on sessionStorage
-                window.history.pushState(null, null, path); // push it on url
-                window.sessionStorage.removeItem('path'); // removes from session
-            } else { // if it's on 404.html (path doens't exist)
-                let path = window.location.pathname; // get the path url
-                window.sessionStorage.path = path; // saves on sessionStorage
-                window.location.href = '/'; // go to index
-            }
-        </script>
-    </head>
-    <body > 
-    </body>
-</html>        
+<script>
+    // if it's on index.html
+    if (window.sessionStorage.path) {
+        let path = window.sessionStorage.path; // gets the path saved on sessionStorage
+        window.history.pushState(null, null, path); // push it on url
+        window.sessionStorage.removeItem('path'); // removes from session
+    } else { // if it's on 404.html (path doens't exist)
+        let path = window.location.pathname; // get the path url
+        window.sessionStorage.path = path; // saves on sessionStorage
+        window.location.href = '/'; // go to index
+    }
+</script>       
