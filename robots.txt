@@ -1,0 +1,2 @@
+Sitemap: https://sadeqam.ir/java-sitemap.xml
+Sitemap: https://sadeqam.ir/api-sitemap.xml

@@ -2007,7 +2007,7 @@
         "youtube": "no"
     },
     {
-        "id": "MySQL-insert_user",
+        "id": "MySQL-insert-user",
         "name": "39",
         "title": " اضافه کردن عضو ",
         "amendment": "no",
@@ -2047,7 +2047,7 @@
         "youtube": "no"
     },
     {
-        "id": "MySQL-select-twit_id",
+        "id": "MySQL-select-twit-id",
         "name": "44",
         "title": " پیدا کردن توییت با id",
         "amendment": "no",
